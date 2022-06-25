@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is the student who is major in Atmospheric, but interesting in CS.
+
 <!--
 **1chooo/1chooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
