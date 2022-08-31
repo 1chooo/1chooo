@@ -2,7 +2,7 @@
 
 This is the student who is major in Atmospheric, but interesting in CS.
 
-# How to reach out me: 
+### How to reach out me: 
 
 🧸 My YouTube Channel -> [1chooo](https://www.youtube.com/channel/UCpBU1rXOfdTtxX939f_P_dA)
 
