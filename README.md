@@ -48,9 +48,13 @@ Here are some ideas to get you started:
 
 ## 📊 &nbsp;Coding Stats
 
-![1chooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=1chooo&show_icons=true)
+<!-- ![1chooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=1chooo&show_icons=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&layout=compact) -->
+
+###
+
+<img class="float-left pr-5" src="https://github-readme-stats.vercel.app/api?username=1chooo&show_icons=true" alt="1chooo-top-progamming-languages" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&layout=compact" alt="1chooo-github-status" />
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&layout=compact)](https://github.com/1chooo/github-readme-stats) -->
-`
