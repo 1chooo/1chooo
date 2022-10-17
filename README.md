@@ -33,28 +33,20 @@ Here are some ideas to get you started:
 </p>
 
 
-<!-- ## 📊 &nbsp;Coding Stats -->
+## 🧸 &nbsp;Coding Stats
 
 
-<details>
+<!-- <details>
   <summary><b>Github Stats ⚡<b/></summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=1chooo&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
+</details> -->
 
-<!-- <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
-  <tbody>
-    <tr>
-      <td>　
-        <img class="float-left pr-5" src="https://github-readme-stats.vercel.app/api?username=1chooo&show_icons=true" alt="1chooo-top-progamming-languages" /> 　
-      </td>
-      <td>　
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&layout=compact" alt="1chooo-github-status" />　
-      </td>
-    </tr>
-  </tbody>
-</table> -->
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%;"><tbody><tr>
+  <td><img class="float-left pr-5" src="https://github-readme-stats.vercel.app/api?username=1chooo&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="1chooo-top-progamming-languages" /></td>
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="1chooo-github-status" /></td>
+</tr></tbody></table>
 
 <!-- ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
