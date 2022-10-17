@@ -36,12 +36,25 @@ Here are some ideas to get you started:
 ## 📊 &nbsp;Coding Stats
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://skillicons.dev">
     <img class="float-left pr-5" src="https://github-readme-stats.vercel.app/api?username=1chooo&show_icons=true" alt="1chooo-top-progamming-languages" /> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&layout=compact" alt="1chooo-github-status" />
   </a>
-</p>
+</p> -->
+
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
+  <tbody>
+    <tr>
+      <td>　
+        <img class="float-left pr-5" src="https://github-readme-stats.vercel.app/api?username=1chooo&show_icons=true" alt="1chooo-top-progamming-languages" /> 　
+      </td>
+      <td>　
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&layout=compact" alt="1chooo-github-status" />　
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- <p align="left"> 
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
