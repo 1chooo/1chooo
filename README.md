@@ -25,7 +25,14 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="left"> Languages and Tools: </h3>
-<p align="left"> 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,python,java,fortran,vim,figma" />
+  </a>
+</p>
+
+<!-- <p align="left"> 
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
     </a> 
@@ -44,7 +51,7 @@ Here are some ideas to get you started:
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a> 
-</p>
+</p> -->
 
 ## 📊 &nbsp;Coding Stats
 
