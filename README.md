@@ -32,6 +32,17 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+
+## 📊 &nbsp;Coding Stats
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img class="float-left pr-5" src="https://github-readme-stats.vercel.app/api?username=1chooo&show_icons=true" alt="1chooo-top-progamming-languages" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&layout=compact" alt="1chooo-github-status" />
+  </a>
+</p>
+
 <!-- <p align="left"> 
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
@@ -53,14 +64,14 @@ Here are some ideas to get you started:
     </a> 
 </p> -->
 
-## 📊 &nbsp;Coding Stats
+
 
 <!-- ![1chooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=1chooo&show_icons=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&layout=compact) -->
 
-###
+<!-- ###
 
-<img class="float-left pr-5" src="https://github-readme-stats.vercel.app/api?username=1chooo&show_icons=true" alt="1chooo-top-progamming-languages" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&layout=compact" alt="1chooo-github-status" />
+<img class="float-left pr-5" src="https://github-readme-stats.vercel.app/api?username=1chooo&show_icons=true" alt="1chooo-top-progamming-languages" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&layout=compact" alt="1chooo-github-status" /> -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&layout=compact)](https://github.com/1chooo/github-readme-stats) -->
