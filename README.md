@@ -33,17 +33,17 @@ Here are some ideas to get you started:
 </p>
 
 
-## 📊 &nbsp;Coding Stats
+<!-- ## 📊 &nbsp;Coding Stats -->
 
 
-<!-- <p align="center">
-  <a href="https://skillicons.dev">
-    <img class="float-left pr-5" src="https://github-readme-stats.vercel.app/api?username=1chooo&show_icons=true" alt="1chooo-top-progamming-languages" /> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&layout=compact" alt="1chooo-github-status" />
-  </a>
-</p> -->
+<details>
+  <summary><b>Github Stats ⚡<b/></summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=1chooo&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
 
-<table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
+<!-- <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
   <tbody>
     <tr>
       <td>　
@@ -54,37 +54,9 @@ Here are some ideas to get you started:
       </td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
-<!-- <p align="left"> 
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a> 
-</p> -->
-
-
-
-<!-- ![1chooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=1chooo&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&layout=compact) -->
-
-<!-- ###
-
-<img class="float-left pr-5" src="https://github-readme-stats.vercel.app/api?username=1chooo&show_icons=true" alt="1chooo-top-progamming-languages" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&layout=compact" alt="1chooo-github-status" /> -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&layout=compact)](https://github.com/1chooo/github-readme-stats) -->
+<!-- ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776) -->
