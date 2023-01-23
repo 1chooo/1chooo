@@ -42,16 +42,16 @@ Here are some ideas to get you started:
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=1chooo&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details> -->
-
+<!-- github-readme-stats-7yhlrmemk-1chooo.vercel.app -->
 <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;"><tbody><tr>
-  <td><img class="float-left pr-5" src="https://github-readme-stats.vercel.app/api?username=1chooo&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="1chooo-top-progamming-languages" /></td>
-  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&hide=jupyter%20notebook&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="1chooo-github-status" /></td>
+  <td><img class="float-left pr-5" src="https://github-readme-stats-7yhlrmemk-1chooo.vercel.app/api?username=1chooo&theme=blueberry&count_private=true&hide_border=true&line_height=20&count_private=true" alt="1chooo-top-progamming-languages" /></td>
+  <td><img src="https://github-readme-stats-7yhlrmemk-1chooo.vercel.app/api/top-langs/?username=1chooo&hide=jupyter%20notebook&layout=compact&theme=blueberry&count_private=true&hide_border=true&count_private=true" alt="1chooo-github-status" /></td>
 </tr></tbody></table>
 
 <!-- nord-theme
 <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;"><tbody><tr>
-  <td><img class="float-left pr-5" src="https://github-readme-stats.vercel.app/api?username=1chooo&theme=nord&count_private=true&hide_border=true&line_height=20" alt="1chooo-top-progamming-languages" /></td>
-  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&layout=compact&theme=nord&count_private=true&hide_border=true" alt="1chooo-github-status" /></td>
+  <td><img class="float-left pr-5" src="https://github-readme-stats-7yhlrmemk-1chooo.vercel.app/api?username=1chooo&theme=nord&count_private=true&hide_border=true&line_height=20" alt="1chooo-top-progamming-languages" /></td>
+  <td><img src="https://github-readme-stats-7yhlrmemk-1chooo.vercel.app/api/top-langs/?username=1chooo&layout=compact&theme=nord&count_private=true&hide_border=true" alt="1chooo-github-status" /></td>
 </tr></tbody></table> -->
 
 <!-- ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
