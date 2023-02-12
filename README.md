@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <!-- nord-theme -->
 <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;"><tbody><tr>
   <td><img class="float-left pr-5" src="https://github-readme-stats-7yhlrmemk-1chooo.vercel.app/api?username=1chooo&theme=nord&count_private=true&hide_border=true&line_height=20" alt="1chooo-top-progamming-languages" /></td>
-  <td><img src="https://github-readme-stats-7yhlrmemk-1chooo.vercel.app/api/top-langs/?username=1chooo&hide=jupyter%20notebook&layout=compact&theme=nord&count_private=true&hide_border=true" alt="1chooo-github-status" /></td>
+  <td><img src="https://github-readme-stats-7yhlrmemk-1chooo.vercel.app/api/top-langs/?username=1chooo&hide=jupyter%20notebook,html&layout=compact&theme=nord&count_private=true&hide_border=true" alt="1chooo-github-status" /></td>
 </tr></tbody></table>
 
 <!-- ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true) -->
