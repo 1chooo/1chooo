@@ -29,11 +29,15 @@ I'm currently seeking for SWE Internship  and preparing for application of Maste
 ## 📇 &nbsp;Coding Stats
 
 <!-- vue-theme -->
-<div style="display:flex;justify-content:center;">
+<!-- <div style="display:flex;justify-content:center;">
   <img src="https://github-readme-stats.vercel.app/api?username=1chooo&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" style="margin-right:10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&hide=jupyter%20notebook,html＆hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-</div>
+</div> -->
 
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%;"><tbody><tr>
+  <td><img class="float-left pr-5" src="https://github-readme-stats.vercel.app/api?username=1chooo&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" alt="1chooo-top-progamming-languages" /></td>
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&hide=jupyter%20notebook,html＆hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="1chooo-github-status" /></td>
+</tr></tbody></table>
 
 ## 💻 &nbsp;Social platform
 
