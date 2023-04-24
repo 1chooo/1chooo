@@ -1,32 +1,32 @@
-<!-- <details>
+<details>
   <summary><b>Github Stats ⚡<b/></summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=1chooo&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details> -->
-<!-- github-readme-stats-7yhlrmemk-1chooo.vercel.app -->
+<!-- github-readme-stats-7yhlrmemk-1chooo.vercel.app
 
-<!-- <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;"><tbody><tr>
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%;"><tbody><tr>
   <td><img class="float-left pr-5" src="https://github-readme-stats-7yhlrmemk-1chooo.vercel.app/api?username=1chooo&theme=blueberry&count_private=true&hide_border=true&line_height=20&count_private=true" alt="1chooo-top-progamming-languages" /></td>
   <td><img src="https://github-readme-stats-7yhlrmemk-1chooo.vercel.app/api/top-langs/?username=1chooo&hide=jupyter%20notebook&layout=compact&theme=blueberry&count_private=true&hide_border=true&count_private=true" alt="1chooo-github-status" /></td>
-</tr></tbody></table> -->
+</tr></tbody></table>
 
 
 <!-- vue-dark-theme -->
-<!-- <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;"><tbody><tr>
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%;"><tbody><tr>
   <td><img class="float-left pr-5" src="https://github-readme-stats-7yhlrmemk-1chooo.vercel.app/api?username=1chooo&theme=vue-dark&count_private=true&hide_border=true&line_height=20" alt="1chooo-top-progamming-languages" /></td>
   <td><img src="https://github-readme-stats-7yhlrmemk-1chooo.vercel.app/api/top-langs/?username=1chooo&hide=jupyter%20notebook,html&layout=compact&theme=vue-dark&count_private=true&hide_border=true" alt="1chooo-github-status" /></td>
-</tr></tbody></table> -->
+</tr></tbody></table>
 
-<!-- ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true) -->
-<!-- ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776) -->
-<!-- ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776) -->
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true) -->
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 
 
-<!-- **Visitor Count**
+**Visitor Count**
   
-![Visitor Count](https://profile-counter.glitch.me/{1chooo}/count.svg) -->
+![Visitor Count](https://profile-counter.glitch.me/{1chooo}/count.svg)
 
 
 
@@ -81,9 +81,9 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=1chooo&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
 </a> -->
 
-<!-- <a href="https://github.com/1chooo">
+<a href="https://github.com/1chooo">
     <img src="https://github-stats-alpha.vercel.app/api?username=1chooo&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a> -->
+</a>
 
 
 <!-- Student in NCU | Major in ATM | Minor Specialty in CS | @NCUFRESH | Currently Seeking for Software Engineering Internship | Preparing for Application of Master Degree -->

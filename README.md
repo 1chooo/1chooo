@@ -4,16 +4,19 @@ This is the student who possesses a true passion for the CS field at NCU.
 
 I'm currently seeking for SWE Internship  and preparing for application of Master Degree. Meanwhile, work on improving programming skills in GO, Rust, JavaScript, data structures, and algorithms.
 
+<a href="https://github.com/1chooo">
+    <img src="https://github-stats-alpha.vercel.app/api?username=1chooo&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
 
 ## 👨🏻‍💻 &nbsp;How to reach out to me: 
 
-> 🧸 My YouTube Channel -> [**1chooo**](https://www.youtube.com/channel/UCpBU1rXOfdTtxX939f_P_dA)
-> 
-> 🧸 My Medium -> [**1chooo**](https://medium.com/@1chooo)
-> 
-> 🧸 My Website -> [**1chooo**](https://sites.google.com/g.ncu.edu.tw/1chooo)
-> 
-> 🧸 My Blog -> [**1chooo's Blog**](https://1chooo.github.io/)
+🧸 My YouTube Channel -> [**1chooo**](https://www.youtube.com/channel/UCpBU1rXOfdTtxX939f_P_dA)
+
+🧸 My Medium -> [**1chooo**](https://medium.com/@1chooo)
+
+🧸 My Website -> [**1chooo**](https://sites.google.com/g.ncu.edu.tw/1chooo)
+
+🧸 My Blog -> [**1chooo's Blog**](https://1chooo.github.io/)
 
 ## 🛠 &nbsp;Languages and Tools:
 
@@ -34,8 +37,9 @@ I'm currently seeking for SWE Internship  and preparing for application of Maste
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&hide=jupyter%20notebook,html＆hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </div> -->
 
+
 <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;"><tbody><tr>
-  <td><img class="float-left pr-5" src="https://github-readme-stats.vercel.app/api?username=1chooo&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" alt="1chooo-top-progamming-languages" /></td>
+  <td><img class="float-left pr-5" src="https://github-readme-streak-stats.herokuapp.com/?user=1chooo&theme=vue-dark&hide_border=false" alt="1chooo-top-progamming-languages" /></td>
   <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&hide=jupyter%20notebook,html＆hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="1chooo-github-status" /></td>
 </tr></tbody></table>
 
