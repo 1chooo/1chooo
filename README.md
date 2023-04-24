@@ -4,9 +4,13 @@ This is the student who possesses a true passion for the CS field at NCU.
 
 I'm currently seeking for SWE Internship  and preparing for application of Master Degree. Meanwhile, work on improving programming skills in GO, Rust, JavaScript, data structures, and algorithms.
 
-<a href="https://github.com/1chooo">
+<div align=center> 
+  <img src="https://github-stats-alpha.vercel.app/api?username=1chooo&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</div>
+
+<!-- <a href="https://github.com/1chooo">
     <img src="https://github-stats-alpha.vercel.app/api?username=1chooo&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
+</a> -->
 
 ## 👨🏻‍💻 &nbsp;How to reach out to me: 
 
