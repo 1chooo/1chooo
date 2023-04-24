@@ -1,33 +1,19 @@
-### Hi there 👋
+## Hi there 👋
 
-This is the student who is major in Atmospheric, but interesting in CS.
+This is the student who possesses a true passion for the CS field at NCU.
 
-I'm currently seeking for Software Engineering Internship  and preparing for application of Master Degree.
+I'm currently seeking for SWE Internship  and preparing for application of Master Degree. Meanwhile, work on improving programming skills in GO, Rust, JavaScript, data structures, and algorithms.
 
-<!-- Student in NCU | Major in ATM | Minor Specialty in CS | @NCUFRESH | Currently Seeking for Software Engineering Internship | Preparing for Application of Master Degree -->
 
 ## 👨🏻‍💻 &nbsp;How to reach out to me: 
 
-🧸 My YouTube Channel -> [**1chooo**](https://www.youtube.com/channel/UCpBU1rXOfdTtxX939f_P_dA)
-
-🧸 My Medium -> [**1chooo**](https://medium.com/@1chooo)
-
-🧸 My Blog -> [**1chooo's Blog**](https://1chooo.github.io/)
-
-<!--
-**1chooo/1chooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 🧸 My YouTube Channel -> [**1chooo**](https://www.youtube.com/channel/UCpBU1rXOfdTtxX939f_P_dA)
+> 
+> 🧸 My Medium -> [**1chooo**](https://medium.com/@1chooo)
+> 
+> 🧸 My Website -> [**1chooo**](https://sites.google.com/g.ncu.edu.tw/1chooo)
+> 
+> 🧸 My Blog -> [**1chooo's Blog**](https://1chooo.github.io/)
 
 ## 🛠 &nbsp;Languages and Tools:
 
@@ -42,35 +28,11 @@ Here are some ideas to get you started:
 
 ## 📇 &nbsp;Coding Stats
 
-
-<!-- <details>
-  <summary><b>Github Stats ⚡<b/></summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=1chooo&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details> -->
-<!-- github-readme-stats-7yhlrmemk-1chooo.vercel.app -->
-
-<!-- <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;"><tbody><tr>
-  <td><img class="float-left pr-5" src="https://github-readme-stats-7yhlrmemk-1chooo.vercel.app/api?username=1chooo&theme=blueberry&count_private=true&hide_border=true&line_height=20&count_private=true" alt="1chooo-top-progamming-languages" /></td>
-  <td><img src="https://github-readme-stats-7yhlrmemk-1chooo.vercel.app/api/top-langs/?username=1chooo&hide=jupyter%20notebook&layout=compact&theme=blueberry&count_private=true&hide_border=true&count_private=true" alt="1chooo-github-status" /></td>
-</tr></tbody></table> -->
-
-<!-- nord-theme -->
-<table border="0" cellpadding="0" cellspacing="0" style="width: 100%;"><tbody><tr>
-  <td><img class="float-left pr-5" src="https://github-readme-stats-7yhlrmemk-1chooo.vercel.app/api?username=1chooo&theme=nord&count_private=true&hide_border=true&line_height=20" alt="1chooo-top-progamming-languages" /></td>
-  <td><img src="https://github-readme-stats-7yhlrmemk-1chooo.vercel.app/api/top-langs/?username=1chooo&hide=jupyter%20notebook,html&layout=compact&theme=nord&count_private=true&hide_border=true" alt="1chooo-github-status" /></td>
-</tr></tbody></table>
-
-<!-- ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true) -->
-<!-- ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776) -->
-<!-- ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776) -->
-
-
-<!-- **Visitor Count**
-  
-![Visitor Count](https://profile-counter.glitch.me/{1chooo}/count.svg) -->
+<!-- vue-theme -->
+<div style="display:flex;justify-content:center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=1chooo&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" width="200" height="100" style="margin-right:10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&hide=jupyter%20notebook,html＆hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="200" height="100">
+</div>
 
 
 ## 💻 &nbsp;Social platform
@@ -89,3 +51,5 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
+
+<!-- [![](https://visitcount.itsvg.in/api?id=1chooo&icon=0&color=0)](https://visitcount.itsvg.in) -->
