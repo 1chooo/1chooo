@@ -30,8 +30,8 @@ I'm currently seeking for SWE Internship  and preparing for application of Maste
 
 <!-- vue-theme -->
 <div style="display:flex;justify-content:center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=1chooo&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" width="200" height="100" style="margin-right:10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&hide=jupyter%20notebook,html＆hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="200" height="100">
+  <img src="https://github-readme-stats.vercel.app/api?username=1chooo&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" style="margin-right:10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&hide=jupyter%20notebook,html＆hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </div>
 
 
