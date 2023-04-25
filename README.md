@@ -8,13 +8,30 @@ I'm currently seeking for SWE Internship  and preparing for application of Maste
   <img src="https://github-stats-alpha.vercel.app/api?username=1chooo&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </div>
 
-## 👨🏻‍💻 &nbsp;How to reach out to me: 
+## 📇 &nbsp;Coding Stats
 
-#### 🧸 My YouTube Channel -> [**1chooo**](https://www.youtube.com/channel/UCpBU1rXOfdTtxX939f_P_dA)
-#### 🧸 My Medium -> [**1chooo**](https://medium.com/@1chooo)
-#### 🧸 My Website -> [**1chooo**](https://sites.google.com/g.ncu.edu.tw/1chooo)
-#### 🧸 My Blog -> [**1chooo's Blog**](https://1chooo.github.io/)
-#### 🧸 My Profolio -> [**1chooo's Profolio**](https://sites.google.com/g.ncu.edu.tw/1chooo/profolio)
+<!-- <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&hide=jupyter%20notebook,html＆hide_border=false&include_all_commits=false&count_private=false&layout=compact" /><img align="" height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=1chooo&theme=vue-dark&hide_border=false" alt="1chooo-top-progamming-languages" /> -->
+
+
+<div style="display:flex;justify-content:center;">
+  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&hide=jupyter%20notebook,html＆hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img align="" height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=1chooo&theme=vue-dark&hide_border=false" alt="1chooo-top-progamming-languages" />
+</div>
+
+
+<!-- <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&hide=jupyter%20notebook,html＆hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="1chooo-github-status" />
+      </td>
+      <td>
+        <img class="float-left pr-5" src="https://github-readme-streak-stats.herokuapp.com/?user=1chooo&theme=vue-dark&hide_border=false" alt="1chooo-top-progamming-languages" />
+      </td>
+    </tr>
+  </tbody>
+</table> -->
+
 
 ## 🛠 &nbsp;Languages and Tools:
 
@@ -30,18 +47,19 @@ I'm currently seeking for SWE Internship  and preparing for application of Maste
 </p>
 
 
-## 📇 &nbsp;Coding Stats
 
-<!-- <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;"><tbody><tr>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&hide=jupyter%20notebook,html＆hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="1chooo-github-status" />
-  </td>
-  <td>
-    <img class="float-left pr-5" src="https://github-readme-streak-stats.herokuapp.com/?user=1chooo&theme=vue-dark&hide_border=false" alt="1chooo-top-progamming-languages" />
-  </td>
-</tr></tbody></table> -->
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&hide=jupyter%20notebook,html＆hide_border=false&include_all_commits=false&count_private=false&layout=compact" /><img align="" height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=1chooo&theme=vue-dark&hide_border=false" alt="1chooo-top-progamming-languages" />
+
+
+
+
+## 👨🏻‍💻 &nbsp;How to reach out to me: 
+
+#### 🧸 My YouTube Channel -> [**1chooo**](https://www.youtube.com/channel/UCpBU1rXOfdTtxX939f_P_dA)
+#### 🧸 My Medium -> [**1chooo**](https://medium.com/@1chooo)
+#### 🧸 My Website -> [**1chooo**](https://sites.google.com/g.ncu.edu.tw/1chooo)
+#### 🧸 My Blog -> [**1chooo's Blog**](https://1chooo.github.io/)
+#### 🧸 My Profolio -> [**1chooo's Profolio**](https://sites.google.com/g.ncu.edu.tw/1chooo/profolio)
 
 ## 💻 &nbsp;Social platform
 
