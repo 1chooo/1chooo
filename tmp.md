@@ -87,3 +87,6 @@ Here are some ideas to get you started:
 
 
 <!-- Student in NCU | Major in ATM | Minor Specialty in CS | @NCUFRESH | Currently Seeking for Software Engineering Internship | Preparing for Application of Master Degree -->
+
+
+https://readme-typing-svg.demolab.com/demo/

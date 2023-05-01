@@ -14,9 +14,13 @@ I'm currently seeking for SWE Internship  and preparing for application of Maste
 
 
 <div style="display:flex;justify-content:center;">
-  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&hide=jupyter%20notebook,html＆hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&langs_count=5&hide=jupyter%20notebook,html＆hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   <img align="" height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=1chooo&theme=vue-dark&hide_border=false" alt="1chooo-top-progamming-languages" />
 </div>
+<!-- <div style="display:flex;justify-content:center;">
+  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&langs_count=8&hide=jupyter%20notebook,html＆hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img align="" height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=1chooo&theme=vue-dark&hide_border=false" alt="1chooo-top-progamming-languages" />
+</div> -->
 
 
 <!-- <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
@@ -55,11 +59,11 @@ I'm currently seeking for SWE Internship  and preparing for application of Maste
 
 ## 👨🏻‍💻 &nbsp;How to reach out to me: 
 
-#### 🧸 My YouTube Channel -> [**1chooo**](https://www.youtube.com/channel/UCpBU1rXOfdTtxX939f_P_dA)
-#### 🧸 My Medium -> [**1chooo**](https://medium.com/@1chooo)
+#### 🧸 My Portfolio -> [**1chooo's Portfolio**](https://sites.google.com/g.ncu.edu.tw/1chooo/portfolio)
 #### 🧸 My Website -> [**1chooo**](https://sites.google.com/g.ncu.edu.tw/1chooo)
 #### 🧸 My Blog -> [**1chooo's Blog**](https://1chooo.github.io/)
-#### 🧸 My Profolio -> [**1chooo's Profolio**](https://sites.google.com/g.ncu.edu.tw/1chooo/profolio)
+#### 🧸 My Medium -> [**1chooo**](https://medium.com/@1chooo)
+#### 🧸 My YouTube Channel -> [**1chooo**](https://www.youtube.com/channel/UCpBU1rXOfdTtxX939f_P_dA)
 
 ## 💻 &nbsp;Social platform
 
@@ -70,7 +74,7 @@ I'm currently seeking for SWE Internship  and preparing for application of Maste
   <a href="https://www.instagram.com/lcho____/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="lcho#9239">
+  <a href="https://discord.com/invite/lcho#9239">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
   <a href="https://www.instagram.com/lcho____/">
