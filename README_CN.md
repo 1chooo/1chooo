@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-**This is Hugo ChunHo Lin, the student who possesses a true passion for the CS field 💻 at National Central University.**
+This is the student who possesses a true passion for the CS field at NCU.
 
-I am currently preparing my application for a Master's Degree while also working as a SWE Intern at Pegatron in 2023.   
-As part of my preparations, I am focusing on enhancing my programming skills in languages such as GO, Rust, and JavaScript. Additionally, I am actively studying data structures and algorithms to further strengthen my technical expertise.
+I'm currently seeking for SWE Internship  and preparing for application of Master Degree. Meanwhile, work on improving programming skills in GO, Rust, JavaScript, data structures, and algorithms.
 
 <div align=left> 
   <img src="https://github-stats-alpha.vercel.app/api?username=1chooo&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
@@ -68,11 +67,11 @@ As part of my preparations, I am focusing on enhancing my programming skills in 
 
 ## 👨🏻‍💻 &nbsp;How to reach out to me: 
 
-🧸 My Portfolio -> [**1chooo's Portfolio**](https://sites.google.com/g.ncu.edu.tw/1chooo/portfolio)  
-🧸 My Website -> [**1chooo**](https://sites.google.com/g.ncu.edu.tw/1chooo)  
-🧸 My Blog -> [**1chooo's Blog**](https://1chooo.github.io/)  
-🧸 My Medium -> [**1chooo**](https://medium.com/@1chooo)  
-🧸 My YouTube Channel -> [**1chooo**](https://www.youtube.com/channel/UCpBU1rXOfdTtxX939f_P_dA)
+#### 🧸 My Portfolio -> [**1chooo's Portfolio**](https://sites.google.com/g.ncu.edu.tw/1chooo/portfolio)
+#### 🧸 My Website -> [**1chooo**](https://sites.google.com/g.ncu.edu.tw/1chooo)
+#### 🧸 My Blog -> [**1chooo's Blog**](https://1chooo.github.io/)
+#### 🧸 My Medium -> [**1chooo**](https://medium.com/@1chooo)
+#### 🧸 My YouTube Channel -> [**1chooo**](https://www.youtube.com/channel/UCpBU1rXOfdTtxX939f_P_dA)
 
 ## 💻 &nbsp;Social platform
 
@@ -91,7 +90,6 @@ As part of my preparations, I am focusing on enhancing my programming skills in 
   </a>
   
 </p>
-
 
 <div align="center">
   <a href="https://visitcount.itsvg.in">
