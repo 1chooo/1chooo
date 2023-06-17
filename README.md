@@ -15,9 +15,9 @@ As part of my preparations, I am focusing on enhancing my programming skills in 
 
 
 <div style="display:flex;justify-content:left;">
-  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&langs_count=5&hide=jupyter%20notebook,html＆hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&langs_count=6&hide=jupyter%20notebook,html＆hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   <!-- <img align="" height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=1chooo&theme=vue-dark&hide_border=false" alt="1chooo-top-progamming-languages" /> -->
-  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=1chooo&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" alt="1chooo-top-progamming-languages" />
+  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=1chooo&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&count_private=true" alt="1chooo-top-progamming-languages" />
 </div>
 
 <!-- <div style="display:flex;justify-content:center;">
@@ -101,3 +101,5 @@ As part of my preparations, I am focusing on enhancing my programming skills in 
 </div>
 
 <!-- <img align="right" alt="GIF" src="https://github.com/johnckealy/johnckealy/blob/0e1a809b010e5b01a0647469c115a7b9906285fe/images/coder.gif?raw=true" width="320" height="180" /> -->
+
+<!-- [![1chooo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=1chooo&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) -->
