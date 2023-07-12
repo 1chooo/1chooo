@@ -2,8 +2,8 @@
 
 **This is Hugo ChunHo Lin, the student who possesses a true passion for the CS field 💻 at National Central University.**
 
-I am currently preparing my application for a Master's Degree while also working as a SWE Intern at Pegatron in 2023.   
-As part of my preparations, I am focusing on enhancing my programming skills in languages such as GO, Rust, and JavaScript. Additionally, I am actively studying data structures and algorithms to further strengthen my technical expertise.
+I am currently preparing my application for a Master's Degree while also working as a SWE Summer 23" Intern at PEGATROON.   
+As part of my preparations, I am focusing on enhancing my programming skills in languages such as `GO`, `Flutter`, and `JavaScript`. Additionally, I am actively studying **Data structures** and **Algorithms** to further strengthen my technical expertise.
 
 <div align=left> 
   <img src="https://github-stats-alpha.vercel.app/api?username=1chooo&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
@@ -15,9 +15,9 @@ As part of my preparations, I am focusing on enhancing my programming skills in 
 
 
 <div style="display:flex;justify-content:left;">
-  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&langs_count=6&hide=jupyter%20notebook,html＆hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&langs_count=6&hide=jupyter%20notebook,html＆hide_border=false&count_private=true&layout=compact" />
   <!-- <img align="" height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=1chooo&theme=vue-dark&hide_border=false" alt="1chooo-top-progamming-languages" /> -->
-  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=1chooo&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&count_private=true" alt="1chooo-top-progamming-languages" />
+  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=1chooo&theme=vue-dark&hide_border=false&count_private=true&show_icons=true&include_all_commits=false" alt="1chooo-top-progamming-languages" />
 </div>
 
 <!-- <div style="display:flex;justify-content:center;">
@@ -49,12 +49,12 @@ As part of my preparations, I am focusing on enhancing my programming skills in 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,fortran,js,latex" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,latex,flutter,go" />
   </a>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,vim,git,figma,bots" />
+    <img src="https://skillicons.dev/icons?i=linux,vscode,vim,git,figma,bots,aws" />
   </a>
 </p>
 
