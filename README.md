@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-**This is Hugo ChunHo Lin, the student who possesses a true passion for the CS field 💻 at National Central University.**
+I am Hugo ChunHo Lin, a 4th-year student at National Central University (NCU), driven by a ***genuine passion*** for the field of **Software Engineering 💻**.  
 
-I am currently preparing my application for a Master's Degree while also working as a SWE Summer 23" Intern at PEGATROON.   
+I am currently preparing my application for a Master's Degree, concurrently serving as a ***Summer 2023 Software Engineering (SWE) Intern at PEGATROON*** and holding the role of an ***2023 Amazon Web Services (AWS) Educate Cloud Ambassador***.  
+
 As part of my preparations, I am focusing on enhancing my programming skills in languages such as `GO`, `Flutter`, and `JavaScript`. Additionally, I am actively studying **Data structures** and **Algorithms** to further strengthen my technical expertise.
 
 <div align=left> 
@@ -15,7 +16,7 @@ As part of my preparations, I am focusing on enhancing my programming skills in 
 
 
 <div style="display:flex;justify-content:left;">
-  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&langs_count=6&hide=jupyter%20notebook,html＆hide_border=false&count_private=true&layout=compact" />
+  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&langs_count=6&hide=jupyter%20notebook,html＆hide_border=false&count_private=false&layout=compact" />
   <!-- <img align="" height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=1chooo&theme=vue-dark&hide_border=false" alt="1chooo-top-progamming-languages" /> -->
   <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=1chooo&theme=vue-dark&hide_border=false&count_private=true&show_icons=true&include_all_commits=false" alt="1chooo-top-progamming-languages" />
 </div>
@@ -54,25 +55,20 @@ As part of my preparations, I am focusing on enhancing my programming skills in 
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,vim,git,figma,bots,aws" />
+    <img src="https://skillicons.dev/icons?i=linux,vscode,aws,git,vim,bash,gitlab,figma" />
   </a>
 </p>
 
 
-
-
-
-
-
-
-
 ## 👨🏻‍💻 &nbsp;How to reach out to me: 
 
-🧸 My Portfolio -> [**1chooo's Portfolio**](https://sites.google.com/g.ncu.edu.tw/1chooo/portfolio)  
-🧸 My Website -> [**1chooo**](https://sites.google.com/g.ncu.edu.tw/1chooo)  
-🧸 My Blog -> [**1chooo's Blog**](https://1chooo.github.io/)  
-🧸 My Medium -> [**1chooo**](https://medium.com/@1chooo)  
-🧸 My YouTube Channel -> [**1chooo**](https://www.youtube.com/channel/UCpBU1rXOfdTtxX939f_P_dA)
+[**🧸 1chooo's Portfolio**](https://1chooo.github.io/)  
+[**🧸 1chooo's Blog**](https://1chooo.github.io/1chooo-blog/)  
+[**🧸 hugo_one_page_resume_2023.pdf**](https://1chooo.github.io/static/media/hugo_one_page_resume_2023.cdb55ac7d8ee0a86b308.pdf)  
+[**🧸 1chooo** on Medium](https://medium.com/@1chooo)  
+[**🧸 1chooo** on YouTube](https://www.youtube.com/channel/UCpBU1rXOfdTtxX939f_P_dA)
+
+
 
 ## 💻 &nbsp;Social platform
 
