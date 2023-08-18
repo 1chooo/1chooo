@@ -16,7 +16,7 @@ As part of my preparations, I am focusing on enhancing my programming skills in 
 
 
 <div style="display:flex;justify-content:left;">
-  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&langs_count=6&hide=jupyter%20notebook,html＆hide_border=false&count_private=false&layout=compact" />
+  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&langs_count=6&hide=assembly,jupyter%20notebook,html＆hide_border=false&count_private=false&layout=compact" />
   <!-- <img align="" height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=1chooo&theme=vue-dark&hide_border=false" alt="1chooo-top-progamming-languages" /> -->
   <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=1chooo&theme=vue-dark&hide_border=false&count_private=true&show_icons=true&include_all_commits=false" alt="1chooo-top-progamming-languages" />
 </div>
