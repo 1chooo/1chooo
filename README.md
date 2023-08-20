@@ -12,22 +12,22 @@ As part of my preparations, I am focusing on enhancing my programming skills in 
 
 ## 📇 &nbsp;Coding Stats
 
-<!-- <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&hide=jupyter%20notebook,html＆hide_border=false&include_all_commits=false&count_private=false&layout=compact" /><img align="" height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=1chooo&theme=vue-dark&hide_border=false" alt="1chooo-top-progamming-languages" /> -->
+<!-- <img align="" height="137px" src="https://github-readme-stats-git-master-1chooo.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&hide=jupyter%20notebook,html＆hide_border=false&include_all_commits=false&count_private=false&layout=compact" /><img align="" height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=1chooo&theme=vue-dark&hide_border=false" alt="1chooo-top-progamming-languages" /> -->
 
 
 <div style="display:flex;justify-content:left;">
-  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&langs_count=6&hide=assembly,jupyter%20notebook,html＆hide_border=false&count_private=false&layout=compact" />
+  <img align="" height="137px" src="https://github-readme-stats-git-master-1chooo.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&langs_count=6&hide=assembly,jupyter%20notebook,html＆hide_border=false&count_private=false&layout=compact&size_weight=1&count_weight=0" />
   <!-- <img align="" height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=1chooo&theme=vue-dark&hide_border=false" alt="1chooo-top-progamming-languages" /> -->
-  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=1chooo&theme=vue-dark&hide_border=false&count_private=true&show_icons=true&include_all_commits=false" alt="1chooo-top-progamming-languages" />
+  <img align="" height="137px" src="https://github-readme-stats-git-master-1chooo.vercel.app/api?username=1chooo&theme=vue-dark&hide_border=false&count_private=true&show_icons=true&include_all_commits=false" alt="1chooo-top-progamming-languages" />
 </div>
 
 <!-- <div style="display:flex;justify-content:center;">
-  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&theme=ayu-mirage&langs_count=5&hide=jupyter%20notebook,html＆hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img align="" height="137px" src="https://github-readme-stats-git-master-1chooo.vercel.app/api/top-langs/?username=1chooo&theme=ayu-mirage&langs_count=5&hide=jupyter%20notebook,html＆hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   <img align="" height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=1chooo&theme=city-lights&hide_border=false" alt="1chooo-top-progamming-languages" />
-  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=1chooo&theme=github-dark&hide_border=false&include_all_commits=false&count_private=false" alt="1chooo-top-progamming-languages" />
+  <img align="" height="137px" src="https://github-readme-stats-git-master-1chooo.vercel.app/api?username=1chooo&theme=github-dark&hide_border=false&include_all_commits=false&count_private=false" alt="1chooo-top-progamming-languages" />
 </div> -->
 <!-- <div style="display:flex;justify-content:center;">
-  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&langs_count=8&hide=jupyter%20notebook,html＆hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img align="" height="137px" src="https://github-readme-stats-git-master-1chooo.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&langs_count=8&hide=jupyter%20notebook,html＆hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   <img align="" height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=1chooo&theme=vue-dark&hide_border=false" alt="1chooo-top-progamming-languages" />
 </div> -->
 
@@ -36,7 +36,7 @@ As part of my preparations, I am focusing on enhancing my programming skills in 
   <tbody>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&hide=jupyter%20notebook,html＆hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="1chooo-github-status" />
+        <img src="https://github-readme-stats-git-master-1chooo.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&hide=jupyter%20notebook,html＆hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="1chooo-github-status" />
       </td>
       <td>
         <img class="float-left pr-5" src="https://github-readme-streak-stats.herokuapp.com/?user=1chooo&theme=vue-dark&hide_border=false" alt="1chooo-top-progamming-languages" />
@@ -98,4 +98,4 @@ As part of my preparations, I am focusing on enhancing my programming skills in 
 
 <!-- <img align="right" alt="GIF" src="https://github.com/johnckealy/johnckealy/blob/0e1a809b010e5b01a0647469c115a7b9906285fe/images/coder.gif?raw=true" width="320" height="180" /> -->
 
-<!-- [![1chooo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=1chooo&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![1chooo's wakatime stats](https://github-readme-stats-git-master-1chooo.vercel.app/api/wakatime?username=1chooo&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) -->
