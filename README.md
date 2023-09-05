@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋</h2>
+<h1 align="center">Hi there 👋</h1>
 <h3 align="center">This is Hugo ChunHo Lin 👨🏻‍💻</h3>
 
 <!-- <div align="center">
