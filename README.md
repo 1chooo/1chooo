@@ -1,8 +1,8 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-I am Hugo ChunHo Lin, a 4th-year student at National Central University (NCU), driven by a ***genuine passion*** for the field of **Software Engineering 💻**.  
+I am Hugo ChunHo Lin, a 4th-year student at National Central University (NCU), driven by a ***genuine passion*** for the field of **Software Engineering 💻**.   
 
-I am currently preparing my application for a Master's Degree, concurrently serving as a ***Summer 2023 Software Engineering (SWE) Intern at PEGATROON*** and holding the role of an ***2023 Amazon Web Services (AWS) Educate Cloud Ambassador***.  
+I am currently preparing my application for a Master's Degree, while simultaneously serving as a **2023 Amazon Web Services (AWS) Educate Cloud Ambassador** and an **Ex Software Engineering (SWE) Intern at PEGATROON**.
 
 As part of my preparations, I am focusing on enhancing my programming skills in languages such as `GO`, `Flutter`, and `JavaScript`. Additionally, I am actively studying **Data structures** and **Algorithms** to further strengthen my technical expertise.
 
@@ -13,7 +13,7 @@ As part of my preparations, I am focusing on enhancing my programming skills in 
 ## 📇 &nbsp;Coding Stats
 
 <div style="display:flex;justify-content:left;">
-  <img align="" height="137px" src="https://github-readme-stats-git-master-1chooo.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&langs_count=6&hide=tex,assembly,jupyter%20notebook,html＆hide_border=false&count_private=false&layout=compact&size_weight=1&count_weight=0" />
+  <img align="" height="137px" src="https://github-readme-stats-git-master-1chooo.vercel.app/api/top-langs/?username=1chooo&theme=vue-dark&langs_count=5&hide=fortran,javascript,tex,assembly,jupyter%20notebook,html＆hide_border=false&count_private=false&layout=compact&size_weight=1&count_weight=0" />
   <!-- <img align="" height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=1chooo&theme=vue-dark&hide_border=false" alt="1chooo-top-progamming-languages" /> -->
   <img align="" height="137px" src="https://github-readme-stats-git-master-1chooo.vercel.app/api?username=1chooo&theme=vue-dark&hide_border=false&count_private=true&show_icons=true&include_all_commits=false" alt="1chooo-top-progamming-languages" />
 </div>
@@ -22,12 +22,12 @@ As part of my preparations, I am focusing on enhancing my programming skills in 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,latex,flutter,go" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,java,go,js,latex,flutter" />
   </a>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,aws,git,vim,bash,gitlab,figma" />
+    <img src="https://skillicons.dev/icons?i=linux,vscode,aws,git,bash,docker,github,gitlab,figma" />
   </a>
 </p>
 
