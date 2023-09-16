@@ -1,11 +1,16 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">This is Hugo ChunHo Lin 👨🏻‍💻</h3>
 
-<!-- <div align="center">
+<div align="center">
     <p>
-      I am Hugo ChunHo Lin, a 4th-year student at National Central University (NCU), driven by a <strong><em>genuine passion</em></strong> for the field of <strong>Software Engineering 💻</strong>.
+        <a href="https://1chooo-github-io-1chooo.vercel.app/"><b>👨🏻‍💻 Portfolio</b></a> |
+        <a href="https://1chooo.github.io/1chooo-blog/"><b>📓 Blog</b></a> |
+        <a href="https://1chooo-github-io-1chooo.vercel.app/resume"><b>🧳 Resume</b></a> |
+        <a href="https://medium.com/@1chooo"><b>📠 Medium</b></a> |
+        <a href="https://www.youtube.com/channel/UCpBU1rXOfdTtxX939f_P_dA"><b>🎥 YouTube</b></a>
     </p>
-</div> -->
+</div>
+
 
 
 
@@ -39,14 +44,6 @@ As part of my preparations, I am focusing on enhancing my programming skills in 
     <img src="https://skillicons.dev/icons?i=linux,vscode,github,aws,git,bash,docker,gitlab,figma" />
   </a>
 </p>
-
-## 👨🏻‍💻 &nbsp;How to reach out to me: 
-
-[**👨🏻‍💻 Portfolio**](https://1chooo-github-io-1chooo.vercel.app/) |
-[**📓 Blog**](https://1chooo.github.io/1chooo-blog/) |
-[**🧳 Resume**](https://1chooo-github-io-1chooo.vercel.app/resume) |
-[**📠 Medium**](https://medium.com/@1chooo) |
-[**🎥 YouTube**](https://www.youtube.com/channel/UCpBU1rXOfdTtxX939f_P_dA)
 
 ## 💻 &nbsp;Social platform
 
