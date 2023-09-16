@@ -42,11 +42,11 @@ As part of my preparations, I am focusing on enhancing my programming skills in 
 
 ## 👨🏻‍💻 &nbsp;How to reach out to me: 
 
-[**🧸 1chooo's Portfolio**](https://1chooo-github-io.vercel.app/)  
-[**🧸 1chooo's Blog**](https://1chooo.github.io/1chooo-blog/)  
-[**🧸 hugo_one_page_resume_2023.pdf**](https://1chooo.github.io/static/media/hugo_one_page_resume_2023.cdb55ac7d8ee0a86b308.pdf)  
-[**🧸 1chooo** on Medium](https://medium.com/@1chooo)  
-[**🧸 1chooo** on YouTube](https://www.youtube.com/channel/UCpBU1rXOfdTtxX939f_P_dA)
+[**👨🏻‍💻 Portfolio**](https://1chooo-github-io-1chooo.vercel.app/) |
+[**📓 Blog**](https://1chooo.github.io/1chooo-blog/) |
+[**🧳 Resume**](https://1chooo-github-io-1chooo.vercel.app/resume) |
+[**📠 Medium**](https://medium.com/@1chooo) |
+[**🎥 YouTube**](https://www.youtube.com/channel/UCpBU1rXOfdTtxX939f_P_dA)
 
 ## 💻 &nbsp;Social platform
 
