@@ -3,11 +3,11 @@
 
 <div align="center">
     <p>
-        <a href="https://1chooo-github-io-1chooo.vercel.app/"><b>👨🏻‍💻 Portfolio</b></a> |
-        <a href="https://1chooo.github.io/1chooo-blog/"><b>📓 Blog</b></a> |
-        <a href="https://1chooo-github-io-1chooo.vercel.app/resume"><b>🧳 Resume</b></a> |
-        <a href="https://medium.com/@1chooo"><b>📠 Medium</b></a> |
-        <a href="https://www.youtube.com/channel/UCpBU1rXOfdTtxX939f_P_dA"><b>🎥 YouTube</b></a>
+        <a href="https://1chooo-github-io-1chooo.vercel.app/" target="_blank"><b>👨🏻‍💻 Portfolio</b></a> |
+        <a href="https://1chooo.github.io/1chooo-blog/" target="_blank"><b>📓 Blog</b></a> |
+        <a href="https://1chooo-github-io-1chooo.vercel.app/resume" target="_blank"><b>🧳 Resume</b></a> |
+        <a href="https://medium.com/@1chooo" target="_blank"><b>📠 Medium</b></a> |
+        <a href="https://www.youtube.com/channel/UCpBU1rXOfdTtxX939f_P_dA" target="_blank"><b>🎥 YouTube</b></a>
     </p>
 </div>
 
