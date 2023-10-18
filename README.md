@@ -33,11 +33,11 @@ As part of my preparations, I am focusing on enhancing my programming skills in 
   <img align="" height="137px" src="https://github-readme-stats-git-master-1chooo.vercel.app/api?username=1chooo&theme=vue-dark&hide_border=false&count_private=true&show_icons=true&include_all_commits=false" alt="1chooo-top-progamming-languages" />
 </div>
 
-## 🛠 &nbsp;Languages and Tools:
+## 🛠 &nbsp;Tech Stack:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,java,go,js,latex,flutter" />
+    <img src="https://skillicons.dev/icons?i=python,go,cpp,c,java,js,latex,flutter" />
   </a>
 </p>
 <p align="left">
@@ -53,15 +53,12 @@ As part of my preparations, I am focusing on enhancing my programming skills in 
   <a href="https://www.linkedin.com/in/1chooo/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  &nbsp;
   <a href="https://www.instagram.com/lcho____/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  &nbsp;
-  <a href="https://discord.com/invite/lcho#9239">
+  <!-- <a href="https://discord.com/invite/lcho#9239">
     <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-  &nbsp;
+  </a> -->
   <a href="https://www.instagram.com/lcho____/">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
