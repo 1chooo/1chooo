@@ -37,7 +37,7 @@ As part of my preparations, I am focusing on enhancing my programming skills in 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,go,cpp,c,js,java,latex,flutter" />
+    <img src="https://skillicons.dev/icons?i=python,go,cpp,c,js,java,latex,react,flutter" />
   </a>
 </p>
 <p align="left">
