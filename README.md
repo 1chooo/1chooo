@@ -15,8 +15,6 @@
     </p>
 </div>
 
-### `$ ls -al Hugo 👨🏻‍💻 (He/Him)`
-
 I am **Hugo ChunHo Lin**, a 4th-year student at [National Central University (NCU)](https://www.ncu.edu.tw/), driven by a *genuine passion* for the field of **Software Engineering 💻**.
 
 I am currently preparing my application for a Master's Degree, while simultaneously serving as an [**Amazon Web Services (AWS) Educate Cloud Ambassador -- Tech Support**](https://aws.amazon.com/tw/education/awseducate/) and an **Ex Software Engineering (SWE) Intern at [Pegatron Corp.](https://www.pegatroncorp.com/)**, turning complex problems into simple, beautiful, and intuitive designs.
