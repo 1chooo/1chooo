@@ -48,9 +48,15 @@ Lastly, I would like to demonstrate my enthusiastic <strong><code>Open-Source</c
 </p>
 <p align="left">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=linux,vscode,github,aws,git,bash,docker,gitlab,figma" />
+		<img src="https://skillicons.dev/icons?i=linux,github,aws,git,docker,fastapi,githubactions,gitlab,bash" />
 	</a>
 </p>
+
+<!-- <p align="left">
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=fastapi,flask,githubactions,docker,gitlab" />
+	</a>
+</p> -->
 
 ## 💻 &nbsp;Social platform
 
