@@ -7,15 +7,15 @@
 
 <div align="center">
     <p>
-        <a href="https://1chooo-github-io-1chooo.vercel.app/" target="_blank"><b>👨🏻‍💻 Portfolio</b></a> |
-        <a href="https://1chooo.github.io/1chooo-blog/" target="_blank"><b>📓 Blog</b></a> |
-        <a href="https://1chooo-github-io-1chooo.vercel.app/resume" target="_blank"><b>🧳 Resume</b></a> |
+        <a href="https://1chooo.com" target="_blank"><b>👨🏻‍💻 Portfolio</b></a> |
+        <a href="https://1chooo.github.io/blog.1chooo.com/" target="_blank"><b>📓 Blog</b></a> |
+        <a href="https://1chooo.com/cv.pdf" target="_blank"><b>🧳 Resume</b></a> |
         <a href="https://medium.com/@1chooo" target="_blank"><b>📠 Medium</b></a> |
-        <a href="https://www.youtube.com/channel/UCpBU1rXOfdTtxX939f_P_dA" target="_blank"><b>🎥 YouTube</b></a>
+        <a href="https://www.youtube.com/@1chooo607" target="_blank"><b>🎥 YouTube</b></a>
     </p>
 </div>
 
-I am **Hugo ChunHo Lin**, a 4th-year student at [National Central University (NCU)](https://www.ncu.edu.tw/), driven by a *genuine passion* for the field of **Software Engineering 💻**.
+Hi, this is **Hugo ChunHo Lin**, a 4th-year student at [National Central University (NCU)](https://www.ncu.edu.tw/), driven by a *genuine passion* for the field of **Software Engineering 💻**.
 
 I am currently preparing my application for a Master's Degree, while simultaneously serving as an [**Amazon Web Services (AWS) Educate Cloud Ambassador -- Tech Support**](https://aws.amazon.com/tw/education/awseducate/) and an **Ex Software Engineering (SWE) Intern at [Pegatron Corp.](https://www.pegatroncorp.com/)**, turning complex problems into simple, beautiful, and intuitive designs.
 
@@ -33,7 +33,7 @@ Lastly, I would like to demonstrate my enthusiastic <strong><code>Open-Source</c
 ## 📇 &nbsp;Coding Stats
 
 <div style="display:flex;justify-content:left;">
-	<img align="" height="150px" src="https://github-readme-stats-1chooo.vercel.app/api/top-langs/?username=1chooo&theme=react&langs_count=5&hide=fortran,tex,assembly,jupyter%20notebook,html＆hide_border=false&count_private=false&layout=compact&size_weight=1&count_weight=0" />
+	<img align="" height="150px" src="https://github-readme-stats-1chooo.vercel.app/api/top-langs/?username=1chooo&theme=react&langs_count=5&hide=tex,fortran,assembly,jupyter%20notebook,html＆hide_border=false&count_private=false&layout=compact&size_weight=1&count_weight=0" />
 	<!-- <img align="" height="137px" src="https://github-readme-stats-1chooo.vercel.app/api/top-langs/?username=1chooo&theme=react&langs_count=5&hide=fortran,tex,assembly,jupyter%20notebook,html＆hide_border=false&count_private=false&layout=compact&size_weight=1&count_weight=0" /> -->
 	<!-- <img align="" height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=1chooo&theme=vue-dark&hide_border=false" alt="1chooo-top-progamming-languages" /> -->
 	<img align="" height="150px" src="https://github-readme-stats-1chooo.vercel.app/api?username=1chooo&theme=react&hide_border=false&count_private=true&show_icons=true&include_all_commits=false&number_format=long" alt="1chooo-top-progamming-languages" />
