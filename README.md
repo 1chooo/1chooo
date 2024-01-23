@@ -24,7 +24,7 @@ As part of my preparation, I'm honing my programming skills using the `GO` langu
 
 Lastly, I would like to demonstrate my enthusiastic <strong><code>Open-Source</code></strong> spirit, as I am eager to share my new knowledge and what I have learned. Thank you all for being here.
 
-🔔 **I'm actively looking for `2024 Summer SWE internships 👨🏻‍💻`**
+📢 **Incoming `2024 eCloudvalley Intern - Cloud Developer 👨🏻‍💻`**
 
 
 <div align=left> 
@@ -49,7 +49,7 @@ Lastly, I would like to demonstrate my enthusiastic <strong><code>Open-Source</c
 </p>
 <p align="left">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=linux,github,aws,git,docker,fastapi,githubactions,gitlab,bash" />
+		<img src="https://skillicons.dev/icons?i=linux,githubactions,aws,git,docker,fastapi,flask,bash,gitlab" />
 	</a>
 </p>
 
