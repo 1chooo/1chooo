@@ -1,9 +1,10 @@
 <h1 align="center">
     Hi there 👋
 </h1>
-<h3 align="center">
+
+<!--<h3 align="center">
     This is Hugo ChunHo Lin 👨🏻‍💻
-</h3>
+</h3> -->
 
 <div align="center">
     <p>
