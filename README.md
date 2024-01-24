@@ -16,6 +16,8 @@
     </p>
 </div>
 
+#### 📢 **Incoming `2024 eCloudvalley Intern - Cloud Developer 👨🏻‍💻`**
+
 Hi, this is **Hugo ChunHo Lin**, a 4th-year student at [National Central University (NCU)](https://www.ncu.edu.tw/), driven by a *genuine passion* for the field of **Software Engineering 💻**.
 
 I am currently preparing my application for a Master's Degree, while simultaneously serving as an [**Amazon Web Services (AWS) Educate Cloud Ambassador -- Tech Support**](https://aws.amazon.com/tw/education/awseducate/) and an **Ex Software Engineering (SWE) Intern at [Pegatron Corp.](https://www.pegatroncorp.com/)**, turning complex problems into simple, beautiful, and intuitive designs.
@@ -23,9 +25,6 @@ I am currently preparing my application for a Master's Degree, while simultaneou
 As part of my preparation, I'm honing my programming skills using the `GO` language for **Web Development,** focusing on **API creation and backend tasks.** Additionally, I'm delving into **automated deployment processes** to grasp fundamental concepts of <strong><code>Kubernetes</code> and <code>Cloud Dev.</code> workflows.</strong>
 
 Lastly, I would like to demonstrate my enthusiastic <strong><code>Open-Source</code></strong> spirit, as I am eager to share my new knowledge and what I have learned. Thank you all for being here.
-
-📢 **Incoming `2024 eCloudvalley Intern - Cloud Developer 👨🏻‍💻`**
-
 
 <div align=left> 
   	<img src="https://github-stats-alpha.vercel.app/api?username=1chooo&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
