@@ -43,12 +43,12 @@ Lastly, I would like to demonstrate my enthusiastic <strong><code>Open-Source</c
 
 <p align="left">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=python,go,cpp,c,js,java,latex,react,flutter" />
+		<img src="https://skillicons.dev/icons?i=python,go,react,ts,js,cpp,c,java,latex" />
 	</a>
 </p>
 <p align="left">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=linux,githubactions,aws,git,docker,fastapi,flask,bash,gitlab" />
+		<img src="https://skillicons.dev/icons?i=linux,githubactions,aws,git,docker,fastapi,kubernetes,flask,bash" />
 	</a>
 </p>
 
