@@ -18,13 +18,11 @@
 
 #### 📢 **Incoming `2024 eCloudvalley Intern - Cloud Developer 👨🏻‍💻`**
 
-Hi, this is **Hugo ChunHo Lin**, a 4th-year student at [National Central University (NCU)](https://www.ncu.edu.tw/), driven by a *genuine passion* for the field of **Software Engineering 💻**.
+I'm **Hugo ChunHo Lin**, a 4th-year student at [National Central University (NCU) 🐿️](https://www.ncu.edu.tw/), fueled by a ***sincere passion*** for the field of **Software Engineering 💻**.
 
-I am currently preparing my application for a Master's Degree, while simultaneously serving as an [**Amazon Web Services (AWS) Educate Cloud Ambassador -- Tech Support**](https://aws.amazon.com/tw/education/awseducate/) and an **Ex Software Engineering (SWE) Intern at [Pegatron Corp.](https://www.pegatroncorp.com/)**, turning complex problems into simple, beautiful, and intuitive designs.
+I do **Web Development and Cloud Development** with a focus on **creating APIs and handling backend tasks** using `Python, GO, and AWS`. In general, I define new problems and find existing problems, transforming solutions into helpful documents or articles to assist everyone in the process, and eventually apply them to make social impacts.
 
-As part of my preparation, I'm honing my programming skills using the `GO` language for **Web Development,** focusing on **API creation and backend tasks.** Additionally, I'm delving into **automated deployment processes** to grasp fundamental concepts of <strong><code>Kubernetes</code> and <code>Cloud Dev.</code> workflows.</strong>
-
-Lastly, I would like to demonstrate my enthusiastic <strong><code>Open-Source</code></strong> spirit, as I am eager to share my new knowledge and what I have learned. Thank you all for being here.
+In my spare time, I do *street photography 📷* and *consistently share my findings on GitHub with Global 🌏*.
 
 <div align=left> 
   	<img src="https://github-stats-alpha.vercel.app/api?username=1chooo&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
@@ -33,7 +31,7 @@ Lastly, I would like to demonstrate my enthusiastic <strong><code>Open-Source</c
 ## 📇 &nbsp;Coding Stats
 
 <div style="display:flex;justify-content:left;">
-	<img align="" height="150px" src="https://github-readme-stats-1chooo.vercel.app/api/top-langs/?username=1chooo&theme=react&langs_count=5&hide=tex,fortran,assembly,jupyter%20notebook,html＆hide_border=false&count_private=false&layout=compact&size_weight=1&count_weight=0" />
+	<img align="" height="150px" src="https://github-readme-stats-1chooo.vercel.app/api/top-langs/?username=1chooo&theme=react&langs_count=5&hide=scss,php,html,css,ncl,tex,fortran,assembly,jupyter%20notebook,html＆hide_border=false&count_private=false&layout=compact&size_weight=1&count_weight=0" />
 	<!-- <img align="" height="137px" src="https://github-readme-stats-1chooo.vercel.app/api/top-langs/?username=1chooo&theme=react&langs_count=5&hide=fortran,tex,assembly,jupyter%20notebook,html＆hide_border=false&count_private=false&layout=compact&size_weight=1&count_weight=0" /> -->
 	<!-- <img align="" height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=1chooo&theme=vue-dark&hide_border=false" alt="1chooo-top-progamming-languages" /> -->
 	<img align="" height="150px" src="https://github-readme-stats-1chooo.vercel.app/api?username=1chooo&theme=react&hide_border=false&count_private=true&show_icons=true&include_all_commits=false&number_format=long" alt="1chooo-top-progamming-languages" />
