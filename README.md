@@ -58,20 +58,9 @@ In my spare time, I do *street photography 📷* and *consistently share my find
 
 ## 💻 &nbsp;Social platform
 
-<p align="left">
-	<a href="https://www.linkedin.com/in/1chooo/">
-		<img src="https://skillicons.dev/icons?i=linkedin" />
-	</a>
-	<a href="https://www.instagram.com/lcho____/">
-		<img src="https://skillicons.dev/icons?i=instagram" />
-	</a>
-	<!-- <a href="https://discord.com/invite/lcho#9239">
-		<img src="https://skillicons.dev/icons?i=discord" />
-	</a> -->
-	<a href="https://www.instagram.com/lcho____/">
-		<img src="https://skillicons.dev/icons?i=twitter" />
-	</a>
-</p>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/1chooo/)
+[![X](https://skillicons.dev/icons?i=twitter)](https://www.instagram.com/lcho____/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/lcho____/)
 
 
 <!-- <div align="center">
