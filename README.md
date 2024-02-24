@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
     Hi there 👋
 </h1>
 
@@ -6,7 +6,7 @@
     This is Hugo ChunHo Lin 👨🏻‍💻
 </h3> -->
 
-<div align="center">
+<div align="right">
     <p>
         <a href="https://1chooo.com" target="_blank"><b>👨🏻‍💻 Portfolio</b></a> |
         <a href="https://1chooo.github.io/blog.1chooo.com/" target="_blank"><b>📓 Blog</b></a> |
@@ -23,10 +23,6 @@ I'm **Hugo ChunHo Lin**, a 4th-year student at [National Central University (NCU
 *I do **Web Development and Cloud Development** with a focus on **creating APIs and handling backend tasks** using `FastAPI, Gin, and AWS`.* In general, I define new problems and find existing problems, transforming solutions into helpful documents or articles to assist everyone in the process, and eventually apply them to make social impacts.
 
 In my spare time, I do *street photography 📷* and *consistently share my findings on GitHub with Global 🌏*.
-
-<div align=left> 
-  	<img src="https://github-stats-alpha.vercel.app/api?username=1chooo&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
-</div>
 
 ## 📇 &nbsp;Coding Stats
 

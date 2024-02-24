@@ -1,5 +1,9 @@
 <!-- https://gprm.itsvg.in/ -->
 
+<div align=left> 
+  	<img src="https://github-stats-alpha.vercel.app/api?username=1chooo&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
+</div>
+
 
 <div style="display:flex;justify-content:left;">
 	<img align="" height="150px" src="https://github-readme-stats-1chooo.vercel.app/api/top-langs/?username=1chooo&theme=react&langs_count=5&hide=scss,php,html,css,ncl,tex,fortran,assembly,jupyter%20notebook,html＆hide_border=false&count_private=false&layout=compact&size_weight=1&count_weight=0" />
