@@ -1,6 +1,21 @@
 <!-- https://gprm.itsvg.in/ -->
 
 
+<div style="display:flex;justify-content:left;">
+	<img align="" height="150px" src="https://github-readme-stats-1chooo.vercel.app/api/top-langs/?username=1chooo&theme=react&langs_count=5&hide=scss,php,html,css,ncl,tex,fortran,assembly,jupyter%20notebook,html＆hide_border=false&count_private=false&layout=compact&size_weight=1&count_weight=0" />
+	<!-- <img align="" height="150px" src="https://github-readme-stats-1chooo.vercel.app/api/wakatime?username=1chooo&layout=compact&langs_count=10&theme=react&hide=other" /> -->
+	<!-- <img align="" height="137px" src="https://github-readme-stats-1chooo.vercel.app/api/top-langs/?username=1chooo&theme=react&langs_count=5&hide=fortran,tex,assembly,jupyter%20notebook,html＆hide_border=false&count_private=false&layout=compact&size_weight=1&count_weight=0" /> -->
+	<!-- <img align="" height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=1chooo&theme=vue-dark&hide_border=false" alt="1chooo-top-progamming-languages" /> -->
+	<img align="" height="150px" src="https://github-readme-stats-1chooo.vercel.app/api?username=1chooo&theme=react&hide_border=false&count_private=true&show_icons=true&include_all_commits=false&number_format=long" alt="1chooo-top-progamming-languages" />
+</div>
+<div style="display:flex;justify-content:left;">
+	<!-- <img align="" height="150px" src="https://github-readme-stats-1chooo.vercel.app/api/top-langs/?username=1chooo&theme=react&langs_count=5&hide=scss,php,html,css,ncl,tex,fortran,assembly,jupyter%20notebook,html＆hide_border=false&count_private=false&layout=compact&size_weight=1&count_weight=0" /> -->
+	<img align="" height="150px" src="https://github-readme-stats-1chooo.vercel.app/api/wakatime?username=1chooo&layout=compact&langs_count=10&theme=react&hide=other" />
+	<!-- <img align="" height="137px" src="https://github-readme-stats-1chooo.vercel.app/api/top-langs/?username=1chooo&theme=react&langs_count=5&hide=fortran,tex,assembly,jupyter%20notebook,html＆hide_border=false&count_private=false&layout=compact&size_weight=1&count_weight=0" /> -->
+	<!-- <img align="" height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=1chooo&theme=vue-dark&hide_border=false" alt="1chooo-top-progamming-languages" /> -->
+	<img align="" height="150px" src="https://github-readme-stats-1chooo.vercel.app/api?username=1chooo&theme=react&hide_border=false&count_private=true&show_icons=true&include_all_commits=false&number_format=long" alt="1chooo-top-progamming-languages" />
+</div>
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lcho#9239) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Hugo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lcho____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/1chooo) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@1chooo) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@1chooo_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/1chooo___) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@1chooo) 
 

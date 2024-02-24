@@ -30,18 +30,10 @@ In my spare time, I do *street photography 📷* and *consistently share my find
 
 ## 📇 &nbsp;Coding Stats
 
-<p align="center">
+<p align="left">
   <img height="160px" src="https://github-readme-stats-1chooo.vercel.app/api/wakatime?username=1chooo&layout=compact&langs_count=10&theme=react&hide=other" />
   <img height="160px" src="https://github-readme-stats-1chooo.vercel.app/api?username=1chooo&theme=react&hide_border=false&count_private=true&show_icons=true&include_all_commits=false&number_format=long" alt="1chooo-top-progamming-languages" />
 </p>
-
-<div style="display:flex;justify-content:left;">
-	<!-- <img align="" height="150px" src="https://github-readme-stats-1chooo.vercel.app/api/top-langs/?username=1chooo&theme=react&langs_count=5&hide=scss,php,html,css,ncl,tex,fortran,assembly,jupyter%20notebook,html＆hide_border=false&count_private=false&layout=compact&size_weight=1&count_weight=0" /> -->
-	<img align="" height="150px" src="https://github-readme-stats-1chooo.vercel.app/api/wakatime?username=1chooo&layout=compact&langs_count=10&theme=react&hide=other" />
-	<!-- <img align="" height="137px" src="https://github-readme-stats-1chooo.vercel.app/api/top-langs/?username=1chooo&theme=react&langs_count=5&hide=fortran,tex,assembly,jupyter%20notebook,html＆hide_border=false&count_private=false&layout=compact&size_weight=1&count_weight=0" /> -->
-	<!-- <img align="" height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=1chooo&theme=vue-dark&hide_border=false" alt="1chooo-top-progamming-languages" /> -->
-	<img align="" height="150px" src="https://github-readme-stats-1chooo.vercel.app/api?username=1chooo&theme=react&hide_border=false&count_private=true&show_icons=true&include_all_commits=false&number_format=long" alt="1chooo-top-progamming-languages" />
-</div>
 
 ## 🛠 &nbsp;Tech Stack:
 
