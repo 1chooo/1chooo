@@ -1,7 +1,5 @@
-# Code Style About Hugo
+// Hugo.go
 
-
-```go
 package Hugo
 
 type Me struct {
@@ -55,41 +53,3 @@ func getFutureGoal() FutureGoal {
         Work: "Do what I want",
     }
 }
-
-```
-
-
-<!-- ```ts
-public sealed class About : Me {
-    private const string MY_DREAM = "To be a Fullstack Developer.";
-    private const string MY_QUOTE = "It is no use doing what you like; you have got to like what you do."
-
-    public object GetCurrentWorkplace() {
-        return new {
-            Workplace = new {
-                Company = "Thoughtworks",
-                Position = "China"
-            }
-        };
-    }
-
-    public IEnumerable<string> GetDailyKnowledge() {
-        return new[] {
-            "C#", "ASP.NET Core", "WPF", "UWP",
-            "React.js", "Vue.js", "HTML", "JavaScript", "CSS",
-            "SQL Server", "Oracle", "MySQL",
-            "Nginx", "IIS", "Powershell", "Python",
-            "Windows", "Ubuntu", "MacOS",
-            "Azure Devops", "Github Action", "CI&CD",
-            "TDD", "DDD"
-        };
-    }
-
-    public IDictionary<string, string> GetFutureGoal() {
-        return new Dictionary<string, string>() {
-            { "Life", "Love what my love" },
-            { "Work", "Do what I want" }
-        };
-    }
-}
-``` -->
