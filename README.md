@@ -27,8 +27,8 @@ In my spare time, I do *street photography 📷* and *consistently share my find
 ## 📇 &nbsp;Coding Stats
 
 <p align="left">
-  <img height="160px" src="https://github-readme-stats-1chooo.vercel.app/api/wakatime?username=1chooo&layout=compact&langs_count=8&theme=react&hide=other,html&title_color=ff9900&text_color=cccccc&icon_color=ff9900&bg_color=232f3e" />
-  <img height="160px" src="https://github-readme-stats-1chooo.vercel.app/api?username=1chooo&theme=react&hide_border=false&count_private=true&show_icons=true&include_all_commits=true&number_format=long&title_color=ff9900&text_color=cccccc&icon_color=ff9900&bg_color=232f3e" alt="1chooo-top-progamming-languages" />
+  <img height="160px" src="https://github-readme-stats-1chooo.vercel.app/api/wakatime?username=1chooo&layout=compact&langs_count=8&hide=other,html&title_color=ff9900&text_color=cccccc&icon_color=ff9900&bg_color=232f3e" />
+  <img height="160px" src="https://github-readme-stats-1chooo.vercel.app/api?username=1chooo&hide_border=false&count_private=true&show_icons=true&include_all_commits=true&number_format=long&title_color=ff9900&text_color=cccccc&icon_color=ff9900&bg_color=232f3e" alt="1chooo-top-progamming-languages" />
 </p>
 
 ## 🛠 &nbsp;Tech Stack:
