@@ -1,5 +1,6 @@
-// Hugo.go
+# Code Style About Hugo
 
+```go
 package Hugo
 
 type Me struct {
@@ -64,3 +65,4 @@ func getFutureGoal() FutureGoal {
 func getQuote() string {
 	return "Dreams come TRUE, when 🫵🏻 don't SLEEP...💤"
 }
+```
