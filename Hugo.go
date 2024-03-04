@@ -19,26 +19,24 @@ func aboutMe() Me {
 		Pronouns:  "He/Him",
 		Contact:   "hugo970217@gmail.com",
 		Job:       "Cloud Developer",
-		Company:   "eCloudvalley Technology Co., Ltd.",
+		Company:   "eCloudValley Technology Co., Ltd.",
 		Location:  "Taiwan 🇹🇼",
-		Hobbies:   "Reading, Music, Movies, Photography",
+		Hobbies:   "Reading 📖, Music 🎶, Movies 🍿, Photography 📸",
 	}
 }
 
 type Skill struct {
-	Languages []string
-	FrameWork []string
-	Tools     []string
-	DevOps    []string
+	Languages  []string
+	FrameWork  []string
+	DevOps     []string
 }
 
 func getSkill() Skill {
 
 	return Skill{
 		Languages: []string{"Go", "Python", "TypeScript", "C++", "C", "Java", "JavaScript"},
-		FrameWork: []string{"React, FastAPI, Flask"},
-		Tools:     []string{"Linux", "Git", "Docker", "AWS", "Azure", "Kubernetes", "GitHub Action"},
-		DevOps:    []string{"GitHub Actions, Docker, Kubernetes, AWS, Azure"},
+		FrameWork: []string{"React", "FastAPI", "Flask", "Gin", "Langchain"},
+		DevOps:    []string{"AWS", "Linux", "GitHub Actions", "Docker", "Kubernetes", "Azure"},
 	}
 }
 
@@ -47,9 +45,9 @@ type Working struct {
 }
 
 type FutureGoal struct {
-	Life      string
-	Work      string
-	Education string
+	Life       string
+	Work       string
+	Education  string
 }
 
 func getFutureGoal() FutureGoal {
