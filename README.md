@@ -16,7 +16,7 @@
     </p>
 </div>
 
-#### 📢 **Incoming `2024 eCloudvalley Intern - Cloud Developer 👨🏻‍💻`**
+#### 📢 **`2024 eCloudvalley Intern - Cloud Developer 👨🏻‍💻`**
 
 I'm **Hugo ChunHo Lin**, a 4th-year student at [National Central University (NCU) 🐿️](https://www.ncu.edu.tw/), fueled by a ***sincere passion*** for the field of **Software Engineering 💻**.
 
@@ -27,8 +27,14 @@ In my spare time, I do *street photography 📷* and *consistently share my find
 ## 📇 &nbsp;Coding Stats
 
 <p align="left">
-  <img height="160px" src="https://github-readme-stats-1chooo.vercel.app/api/wakatime?username=1chooo&layout=compact&langs_count=8&hide=other,html&title_color=ff9900&text_color=cccccc&icon_color=ff9900&bg_color=232f3e" />
-  <img height="160px" src="https://github-readme-stats-1chooo.vercel.app/api?username=1chooo&hide_border=false&count_private=true&show_icons=true&include_all_commits=true&number_format=long&title_color=ff9900&text_color=cccccc&icon_color=ff9900&bg_color=232f3e" alt="1chooo-top-progamming-languages" />
+	<img 
+		height="160px" 
+		src="https://github-readme-stats-1chooo.vercel.app/api/wakatime?username=1chooo&layout=compact&langs_count=8&hide=other,html&title_color=ff9900&text_color=cccccc&icon_color=ff9900&bg_color=232f3e"
+		alt="1chooo-wakatime-time" />
+	<img 
+		height="160px" 
+		src="https://github-readme-stats-1chooo.vercel.app/api?username=1chooo&hide_border=false&show_icons=true&include_all_commits=true&number_format=long&title_color=ff9900&text_color=cccccc&icon_color=ff9900&bg_color=232f3e"
+		alt="1chooo-top-progamming-languages" />
 </p>
 
 ## 🛠 &nbsp;Tech Stack:
@@ -67,11 +73,18 @@ In my spare time, I do *street photography 📷* and *consistently share my find
 </div> -->
 
 <div align="center">
-	<a href="https://github.com/antonkomarev/github-profile-views-counter" target="_blank">
-		<img src="https://komarev.com/ghpvc/?username=1chooo&style=for-the-badge" />
+	<a 
+		href="https://github.com/antonkomarev/github-profile-views-counter" target="_blank">
+		<img 
+			src="https://komarev.com/ghpvc/?username=1chooo&style=for-the-badge" 
+			alt="Profile Views"/>
 	</a>
-	<a href="https://wakatime.com/@de962691-c66a-4501-860f-eb122ac6ea13" target="_blank">
-		<img src="https://wakatime.com/badge/user/de962691-c66a-4501-860f-eb122ac6ea13.svg?style=for-the-badge" alt="Total time coded since May 10 2023" />
+	<a 
+		href="https://wakatime.com/@de962691-c66a-4501-860f-eb122ac6ea13" 
+		target="_blank">
+		<img 
+			src="https://wakatime.com/badge/user/de962691-c66a-4501-860f-eb122ac6ea13.svg?style=for-the-badge" 
+			alt="Total time coded since May 10 2023" />
 	</a>
 </div>
 
