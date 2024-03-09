@@ -18,7 +18,7 @@ func aboutMe() Me {
 		Name:      "Hugo",
 		Pronouns:  "He/Him",
 		Contact:   "hugo970217@gmail.com",
-		Job:       "Cloud Developer",
+		Job:       "Cloud Engineer",
 		Company:   "eCloudValley Technology Co., Ltd.",
 		Location:  "Taiwan 🇹🇼",
 		Hobbies:   "Reading 📖, Music 🎶, Movies 🍿, Photography 📸",
