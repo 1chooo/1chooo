@@ -16,7 +16,7 @@
     </p>
 </div>
 
-#### 📢 **`2024 eCloudvalley Intern - Cloud Developer 👨🏻‍💻`**
+#### 📢 **`2024 eCloudvalley Intern - Cloud Engineer 👨🏻‍💻`**
 
 I'm **Hugo ChunHo Lin**, a 4th-year student at [National Central University (NCU) 🐿️](https://www.ncu.edu.tw/), fueled by a ***sincere passion*** for the field of **Software Engineering 💻**.
 
