@@ -9,7 +9,7 @@
 <div align="right">
     <p>
         <a href="https://1chooo.com" target="_blank"><b>👨🏻‍💻 Portfolio</b></a> |
-        <a href="https://1chooo.github.io/blog.1chooo.com/" target="_blank"><b>📓 Blog</b></a> |
+        <a href="https://blog.1chooo.com" target="_blank"><b>📓 Blog</b></a> |
         <a href="https://1chooo.com/cv.pdf" target="_blank"><b>🧳 Resume</b></a> |
         <a href="https://medium.com/@1chooo" target="_blank"><b>📠 Medium</b></a> |
         <a href="https://www.youtube.com/@1chooo607" target="_blank"><b>🎥 YouTube</b></a>
@@ -41,36 +41,21 @@ In my spare time, I do *street photography 📷* and *consistently share my find
 
 <p align="left">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=python,go,react,ts,js,cpp,c,java,latex" />
+		<img src="https://skillicons.dev/icons?i=python,go,react,ts,cpp,c,java,postman,js,bash" />
 	</a>
 </p>
 <p align="left">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=linux,githubactions,aws,git,docker,fastapi,kubernetes,flask,bash" />
+		<img src="https://skillicons.dev/icons?i=linux,githubactions,aws,azure,docker,fastapi,kubernetes,flask,gitlab,terraform" />
 	</a>
 </p>
 
-<!-- <p align="left">
-	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=fastapi,flask,githubactions,docker,gitlab" />
-	</a>
-</p> -->
 
 ## 💻 &nbsp;Social platform
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/1chooo/)
 [![X](https://skillicons.dev/icons?i=twitter)](https://www.instagram.com/lcho____/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/lcho____/)
-
-
-<!-- <div align="center">
-	<a href="https://visitcount.itsvg.in">
-		<img src="https://visitcount.itsvg.in/api?id=1chooo&label=Profile%20Views&color=1&icon=2&pretty=false" height=20/>
-	</a>
-	<a href="https://wakatime.com/@de962691-c66a-4501-860f-eb122ac6ea13">
-		<img src="https://wakatime.com/badge/user/de962691-c66a-4501-860f-eb122ac6ea13.svg?style=flat" alt="Total time coded since May 10 2023" height=20/>
-	</a>
-</div> -->
 
 <div align="center">
 	<a 
@@ -87,5 +72,3 @@ In my spare time, I do *street photography 📷* and *consistently share my find
 			alt="Total time coded since May 10 2023" />
 	</a>
 </div>
-
-<!-- [![1chooo's wakatime stats](https://github-readme-stats-git-master-1chooo.vercel.app/api/wakatime?username=1chooo&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) -->
