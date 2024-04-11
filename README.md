@@ -1,6 +1,6 @@
-<h1 align="left">
+<!-- <h1 align="left">
     Hi there 👋
-</h1>
+</h1> -->
 
 <!--<h3 align="center">
     This is Hugo ChunHo Lin 👨🏻‍💻
