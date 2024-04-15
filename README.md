@@ -24,6 +24,19 @@ I'm **Hugo ChunHo Lin**, a 4th-year student at [National Central University (NCU
 
 In my spare time, I do *street photography 📷* and *consistently share my findings on GitHub with Global 🌏*.
 
+## 🛠 &nbsp;Tech Stack:
+
+<p align="left">
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=python,go,react,ts,cpp,c,java,postman,js,bash" />
+	</a>
+</p>
+<p align="left">
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=linux,aws,azure,githubactions,docker,fastapi,kubernetes,flask,gitlab,redis" />
+	</a>
+</p>
+
 ## 📇 &nbsp;Coding Stats
 
 <p align="left">
@@ -37,25 +50,6 @@ In my spare time, I do *street photography 📷* and *consistently share my find
 		alt="1chooo-top-progamming-languages" />
 </p>
 
-## 🛠 &nbsp;Tech Stack:
-
-<p align="left">
-	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=python,go,react,ts,cpp,c,java,postman,js,bash" />
-	</a>
-</p>
-<p align="left">
-	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=linux,githubactions,aws,azure,docker,fastapi,kubernetes,flask,gitlab,terraform" />
-	</a>
-</p>
-
-
-## 💻 &nbsp;Social platform
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/1chooo/)
-[![X](https://skillicons.dev/icons?i=twitter)](https://www.instagram.com/lcho____/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/lcho____/)
 
 <div align="center">
 	<a 
