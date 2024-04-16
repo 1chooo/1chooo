@@ -11,8 +11,9 @@
         <a href="https://1chooo.com" target="_blank"><b>👨🏻‍💻 Portfolio</b></a> |
         <a href="https://blog.1chooo.com" target="_blank"><b>📓 Blog</b></a> |
         <a href="https://1chooo.com/cv.pdf" target="_blank"><b>🧳 Resume</b></a> |
-        <a href="https://medium.com/@1chooo" target="_blank"><b>📠 Medium</b></a> |
-        <a href="https://www.youtube.com/@1chooo607" target="_blank"><b>🎥 YouTube</b></a>
+        <a href="https://medium.com/@1chooo" target="_blank"><b>📠 Medium</b></a> 
+		<!-- |
+        <a href="https://www.youtube.com/@1chooo607" target="_blank"><b>🎥 YouTube</b></a> -->
     </p>
 </div>
 
@@ -28,7 +29,7 @@ In my spare time, I do *street photography 📷* and *consistently share my find
 
 <p align="left">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=python,go,react,ts,cpp,c,java,postman,js,bash" />
+		<img src="https://skillicons.dev/icons?i=py,go,java,cpp,c,react,ts,js,flutter,bash" />
 	</a>
 </p>
 <p align="left">
