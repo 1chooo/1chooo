@@ -16,12 +16,12 @@ I'm **Hugo ChunHo Lin**, a graduate with a Bachelor's degree from [National Cent
 
 <p align="left">
 	<a href="https://skillicons.dev">
-		<img src="https://go-skill-icons.vercel.app/api/icons?i=py,java,cpp,go,ts,md,bash,latex" />
+		<img src="https://skillicons.dev/icons?i=py,java,cpp,go,ts,md,bash,latex" />
 	</a>
 </p>
 <p align="left">
 	<a href="https://skillicons.dev">
-		<img src="https://go-skill-icons.vercel.app/api/icons?i=linux,aws,githubactions,docker,fastapi,react,flask,dynamodb" />
+		<img src="https://skillicons.dev/icons?i=linux,aws,githubactions,docker,fastapi,react,flask,dynamodb" />
 	</a>
 </p>
 
