@@ -1,45 +1,30 @@
-<!-- <h1 align="left">
-    Hi there 👋
-</h1> -->
-
-<!--<h3 align="center">
-    This is Hugo ChunHo Lin 👨🏻‍💻
-</h3> -->
 
 <div align="right">
     <p>
         <a href="https://1chooo.com" target="_blank"><b>👨🏻‍💻 Portfolio</b></a> |
         <a href="https://blog.1chooo.com" target="_blank"><b>📓 Blog</b></a> |
-        <a href="https://1chooo.com/cv.pdf" target="_blank"><b>🧳 Resume</b></a> |
+        <a href="https://1chooo.com/cv.pdf" target="_blank"><b>🧳 Linkedin</b></a> |
+        <a href="https://1chooo.com/cv.pdf" target="_blank"><b>📜 Resume</b></a> |
         <a href="https://medium.com/@1chooo" target="_blank"><b>📠 Medium</b></a> 
-		<!-- |
-        <a href="https://www.youtube.com/@1chooo607" target="_blank"><b>🎥 YouTube</b></a> -->
     </p>
 </div>
 
-<!-- #### 📢 **`2024 eCloudvalley Intern - Cloud Engineer 👨🏻‍💻`** -->
+I'm **Hugo ChunHo Lin**, a graduate with a Bachelor's degree from [National Central University (NCU) 🐿️](https://www.ncu.edu.tw/), driven by a ***sincere passion*** for **Software Engineering 💻**.
 
-I'm **Hugo ChunHo Lin**, a 4th-year student at [National Central University (NCU) 🐿️](https://www.ncu.edu.tw/), fueled by a ***sincere passion*** for the field of **Software Engineering 💻**.
-
-
-Cloud computing, system programming, and contributing to open source are my main interests. I am always looking for opportunities to learn and grow in these areas.
-
-<!-- *I do **Web Development and Cloud Development** with a focus on **creating APIs and handling backend tasks** using `FastAPI, Gin, and AWS`.* In general, I define new problems and find existing problems, transforming solutions into helpful documents or articles to assist everyone in the process, and eventually apply them to make social impacts. -->
-
-<!-- In my spare time, I do *street photography 📷* and *consistently share my findings on GitHub with Global 🌏*. -->
 
 ## 🛠 &nbsp;Tech Stack:
 
 <p align="left">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=py,go,java,cpp,c,ts,js,bash,react" />
+		<img src="https://go-skill-icons.vercel.app/api/icons?i=py,java,cpp,go,ts,md,bash,latex" />
 	</a>
 </p>
 <p align="left">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=linux,aws,azure,githubactions,docker,fastapi,flask,cmake,redis" />
+		<img src="https://go-skill-icons.vercel.app/api/icons?i=linux,aws,githubactions,docker,fastapi,react,flask,dynamodb" />
 	</a>
 </p>
+
 
 ## 📇 &nbsp;Coding Stats
 
