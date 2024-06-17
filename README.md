@@ -31,7 +31,7 @@ I'm **Hugo ChunHo Lin**, a graduate with a Bachelor's degree from [National Cent
 <p align="left">
 	<img 
 		height="160px" 
-		src="https://github-readme-stats-1chooo.vercel.app/api/wakatime?username=1chooo&layout=compact&langs_count=8&hide=other,html&title_color=ff9900&text_color=cccccc&icon_color=ff9900&bg_color=232f3e"
+		src="https://github-readme-stats-1chooo.vercel.app/api/wakatime?username=1chooo&layout=compact&langs_count=8&title_color=ff9900&text_color=cccccc&icon_color=ff9900&bg_color=232f3e"
 		alt="1chooo-wakatime-time" />
 	<img 
 		height="160px" 
