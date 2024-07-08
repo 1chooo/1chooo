@@ -35,7 +35,7 @@ I'm **Hugo ChunHo Lin**, a graduate with a Bachelor's degree from [National Cent
 		alt="1chooo-wakatime-time" />
 	<img 
 		height="160px" 
-		src="https://github-readme-stats-1chooo.vercel.app/api?username=1chooo&hide_border=false&show_icons=true&include_all_commits=true&number_format=long&title_color=ff9900&text_color=cccccc&icon_color=ff9900&bg_color=232f3e"
+		src="https://github-readme-streak-stats.herokuapp.com/?user=1chooo&theme=react&hide_border=false&card_height=160&background=232f3e&fire=ff9900&ring=ff9900&stroke=cccccc&currStreakLabel=cccccc&sideLabels=cccccc&sideNums=ff9900&currStreakNum=cccccc&dates=cccccc"
 		alt="1chooo-top-progamming-languages" />
 </p>
 
