@@ -35,12 +35,14 @@ I'm **Hugo ChunHo Lin**, a graduate with a Bachelor's degree from [National Cent
 		alt="1chooo-wakatime-time" />
 	<img 
 		height="150px" 
-		src="https://github-readme-streak-stats.herokuapp.com/?user=1chooo&theme=react&hide_border=false&card_height=120&background=232f3e&fire=ff9900&ring=ff9900&stroke=cccccc&currStreakLabel=cccccc&sideLabels=cccccc&sideNums=ff9900&currStreakNum=cccccc&dates=cccccc"
+		src="https://github-readme-streak-stats.herokuapp.com/?user=1chooo&theme=react&hide_border=false&card_height=120&background=232f3e&fire=ff9900&ring=ff9900&stroke=37475a&currStreakLabel=cccccc&sideLabels=cccccc&sideNums=ff9900&currStreakNum=cccccc&dates=cccccc"
 		alt="1chooo-top-progamming-languages" />
 </p>
 
 
 <div align="center">
+	<h5>Self-motivated, Team player,
+	Love coding. 👨🏻‍💻</h5>
 	<a 
 		href="https://github.com/antonkomarev/github-profile-views-counter" target="_blank">
 		<img 
