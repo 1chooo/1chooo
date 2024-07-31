@@ -29,10 +29,12 @@ I'm **Hugo ChunHo Lin**, a graduate with a Bachelor's degree from [National Cent
 ## 📇 &nbsp;Coding Stats
 
 <p align="left">
-	<img 
-		height="160px" 
-		src="https://github-readme-stats-1chooo.vercel.app/api/wakatime?username=1chooo&layout=compact&langs_count=8&theme=nord"
-		alt="1chooo-wakatime-time" />
+	<a href="https://wakatime.com/@1chooo">
+		<img 
+			height="160px" 
+			src="https://github-readme-stats-1chooo.vercel.app/api/wakatime?username=1chooo&layout=compact&langs_count=8&theme=nord"
+			alt="1chooo-wakatime-time" />
+	</a>
 	<a href="https://leetcode.com/u/1chooo/">
 		<img 
 		height="160px" 
