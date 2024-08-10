@@ -21,7 +21,7 @@ I'm **Hugo ChunHo Lin**, a graduate with a Bachelor's degree from [National Cent
 </p>
 <p align="left">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=linux,aws,githubactions,docker,fastapi,react,flask,dynamodb" />
+		<img src="https://skillicons.dev/icons?i=linux,aws,fastapi,react,nextjs,flask,docker,githubactions" />
 	</a>
 </p>
 
