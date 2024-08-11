@@ -1,4 +1,3 @@
-
 <div align="right">
     <p>
         <a href="https://1chooo.com" target="_blank"><b>👨🏻‍💻 Portfolio</b></a> |
@@ -11,8 +10,7 @@
 
 I'm **Hugo ChunHo Lin**, a graduate with a Bachelor's degree from [National Central University (NCU) 🐿️](https://www.ncu.edu.tw/), driven by a ***sincere passion*** for **Software Engineering 💻**.
 
-
-## 🛠 &nbsp;Tech Stack:
+## 🛠 &nbsp;Tech Stack
 
 <p align="left">
 	<a href="https://skillicons.dev">
@@ -24,7 +22,6 @@ I'm **Hugo ChunHo Lin**, a graduate with a Bachelor's degree from [National Cent
 		<img src="https://skillicons.dev/icons?i=linux,aws,fastapi,react,nextjs,flask,docker,githubactions" />
 	</a>
 </p>
-
 
 ## 📇 &nbsp;Coding Stats
 
@@ -42,7 +39,6 @@ I'm **Hugo ChunHo Lin**, a graduate with a Bachelor's degree from [National Cent
 		alt="1chooo LeetCode Stats" />
 	</a>
 </p>
-
 
 <div align="center">
 	<h5>Self-motivated, Team player,
