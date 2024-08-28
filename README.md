@@ -38,7 +38,7 @@ I'm **Hugo ChunHo Lin**, a graduate with a Bachelor's degree from [National Cent
 		src="https://leetcard.jacoblin.cool/1chooo?theme=nord"
 		alt="1chooo LeetCode Stats" />
 	</a> -->
-	<a href="https://github.com/1chooo.com">
+	<a href="https://github.com/1chooo/1chooo.com">
 		<img 
 		height="150px" 
 		src="https://github-readme-stats-1chooo.vercel.app/api/pin/?username=1chooo&repo=1chooo.com&theme=nord"
