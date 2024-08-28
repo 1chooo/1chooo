@@ -28,7 +28,7 @@ I'm **Hugo ChunHo Lin**, a graduate with a Bachelor's degree from [National Cent
 <p align="left">
 	<a href="https://wakatime.com/@1chooo">
 		<img 
-			width="400px"
+			height="150px" 
 			src="https://github-readme-stats-1chooo.vercel.app/api/wakatime?username=1chooo&layout=compact&langs_count=8&theme=nord"
 			alt="1chooo-wakatime-time" />
 	</a>
@@ -40,7 +40,7 @@ I'm **Hugo ChunHo Lin**, a graduate with a Bachelor's degree from [National Cent
 	</a> -->
 	<a href="https://github.com/1chooo.com">
 		<img 
-		width="400px"
+		height="150px" 
 		src="https://github-readme-stats-1chooo.vercel.app/api/pin/?username=1chooo&repo=1chooo.com&theme=nord"
 		alt="1chooo LeetCode Stats" />
 	</a>
