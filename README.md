@@ -10,18 +10,18 @@
 
 I'm **Hugo ChunHo Lin**, a graduate with a Bachelor's degree from [National Central University (NCU) 🐿️](https://www.ncu.edu.tw/), driven by a ***sincere passion*** for **Software Engineering 💻**.
 
-## 🛠 &nbsp;Tech Stack
+<!-- ## 🛠 &nbsp;Tech Stack -->
 
-<p align="left">
+<!-- <p align="left">
 	<a href="https://skillicons.dev">
 		<img src="https://skillicons.dev/icons?i=py,java,cpp,go,ts,md,bash,latex" />
 	</a>
-</p>
-<p align="left">
+</p> -->
+<!-- <p align="left">
 	<a href="https://skillicons.dev">
 		<img src="https://skillicons.dev/icons?i=linux,aws,fastapi,react,nextjs,flask,docker,githubactions" />
 	</a>
-</p>
+</p> -->
 
 ## 📇 &nbsp;Coding Stats
 
