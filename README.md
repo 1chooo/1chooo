@@ -8,7 +8,7 @@
     </p>
 </div>
 
-I'm **Hugo ChunHo Lin**, a graduate with a Bachelor's degree from [National Central University (NCU) 🐿️](https://www.ncu.edu.tw/), driven by a ***sincere passion*** for **Software Engineering 💻**.
+I'm **Chun-Ho (Hugo) Lin**, a graduate with a Bachelor's degree from [National Central University (NCU) 🐿️](https://www.ncu.edu.tw/), driven by a ***sincere passion*** for **Software Engineering 💻**.
 
 <!-- ## 🛠 &nbsp;Tech Stack -->
 
