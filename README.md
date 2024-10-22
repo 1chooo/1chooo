@@ -25,7 +25,7 @@ I'm **Chun-Ho (Hugo) Lin**, a graduate with a Bachelor's degree from [National C
 
 <p align="left">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=python,ts,nextjs,go,cpp,java,docker,aws,azure,k8s,latex,mysql,redis" />
+		<img src="https://skillicons.dev/icons?i=python,ts,go,cpp,java,docker,aws,azure,k8s,nextjs,fastapi,latex,mysql,redis" />
 	</a>
 </p>
 
