@@ -39,7 +39,7 @@ I'm **Chun-Ho (Hugo) Lin**, a graduate with a Bachelor's degree from [National C
 <p><img align="center" src="https://github-readme-stats-1chooo.vercel.app/api/pin/?username=1chooo&repo=1chooo.com&theme=nord"  width="33.3%" alt="1chooo.com" /></p>
 </div>
 
-
+<br />
 
 <div align="center">
 	<h5>Self-motivated, Team player,
