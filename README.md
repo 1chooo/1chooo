@@ -35,9 +35,9 @@ I'm **Chun-Ho (Hugo) Lin**, a graduate with a Bachelor's degree from [National C
 <a href="https://gitroll.io/profile/uNdBGeKNnQXRTu54PkpvSI6P0Onp1" target="_blank"><img align="left" src="https://gitroll.io/api/badges/profiles/v1/uNdBGeKNnQXRTu54PkpvSI6P0Onp1?theme=nord" width="55%" alt="GitRoll Profile Badge"/></a>
 
 <div>
-<p><img align="center" src="https://github-readme-stats-1chooo.vercel.app/api/wakatime?username=1chooo&layout=compact&langs_count=8&theme=nord&hide_border=true" width="38%" alt="kohakublueleaf" /></a></p>
+<p><a href="https://wakatime.com/@1chooo" target="_blank"><img align="center" src="https://github-readme-stats-1chooo.vercel.app/api/wakatime?username=1chooo&layout=compact&langs_count=8&theme=nord&hide_border=true" width="38%" alt="kohakublueleaf" /></a></p>
 
-<p><img align="center" src="https://github-readme-stats-1chooo.vercel.app/api/pin/?username=1chooo&repo=1chooo.com&theme=nord&hide_border=true"  width="38%" alt="kohakublueleaf" /></p>
+<p><a href="https://github.com/1chooo/1chooo.com" target="_blank"><img align="center" src="https://github-readme-stats-1chooo.vercel.app/api/pin/?username=1chooo&repo=1chooo.com&theme=nord&hide_border=true"  width="38%" alt="kohakublueleaf" /></a></p>
 </div>
 
 <div align="center">
