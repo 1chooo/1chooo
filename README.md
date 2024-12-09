@@ -9,8 +9,8 @@
 </div>
 
 I'm **Chun-Ho (Hugo) Lin**, a graduate with a Bachelor's degree from [National Central University (NCU) 🐿️](https://www.ncu.edu.tw/), driven by a ***sincere passion*** for **Software Engineering 💻**.
-
-## 🛠 &nbsp;Tech Stack
+<!-- 
+## 🛠 &nbsp;Tech Stack -->
 
 <!-- <p align="left">
 	<a href="https://skillicons.dev">
@@ -23,13 +23,13 @@ I'm **Chun-Ho (Hugo) Lin**, a graduate with a Bachelor's degree from [National C
 	</a>
 </p> -->
 
-<p align="left">
+<!-- <p align="left">
 	<a href="https://skillicons.dev">
 		<img src="https://skillicons.dev/icons?i=python,ts,go,cpp,java,linux,docker,aws,azure,k8s,nextjs,fastapi,latex,mysql,redis" />
 	</a>
 </p>
 
-## 📇 &nbsp;Coding Stats
+## 📇 &nbsp;Coding Stats -->
 
 
 <a href="https://gitroll.io/profile/uNdBGeKNnQXRTu54PkpvSI6P0Onp1" target="_blank"><img align="left" src="https://gitroll.io/api/badges/profiles/v1/uNdBGeKNnQXRTu54PkpvSI6P0Onp1?theme=nord" width="55%" alt="GitRoll Profile Badge"/></a>
