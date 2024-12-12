@@ -36,10 +36,10 @@ I'm **Chun-Ho (Hugo) Lin**, a graduate with a Bachelor's degree from [National C
 			src="https://github-readme-stats-1chooo.vercel.app/api/wakatime?username=1chooo&layout=compact&langs_count=8&theme=nord"
 			alt="1chooo-wakatime-time" />
 	</a>
-	<a href="https://github.com/1chooo/1chooo.com">
+	<a href="https://leetcode.com/u/1chooo/">
 		<img 
-		height="150px" 
-		src="https://github-readme-stats-1chooo.vercel.app/api/pin/?username=1chooo&repo=1chooo.com&theme=nord"
+		height="160px" 
+		src="https://leetcard.jacoblin.cool/1chooo?theme=nord"
 		alt="1chooo LeetCode Stats" />
 	</a>
 </p>
