@@ -38,7 +38,7 @@ I'm **Chun-Ho (Hugo) Lin**, a graduate with a Bachelor's degree from [National C
 	</a>
 	<a href="https://leetcode.com/u/1chooo/">
 		<img 
-		height="160px" 
+		height="150px" 
 		src="https://leetcard.jacoblin.cool/1chooo?theme=nord"
 		alt="1chooo LeetCode Stats" />
 	</a>
