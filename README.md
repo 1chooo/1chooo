@@ -23,22 +23,35 @@ I'm **Chun-Ho (Hugo) Lin**, a graduate with a Bachelor's degree from [National C
 	</a>
 </p> -->
 
-<!-- <p align="left">
+<p align="left">
 	<a href="https://skillicons.dev">
 		<img src="https://skillicons.dev/icons?i=python,ts,go,cpp,java,linux,docker,aws,azure,k8s,nextjs,fastapi,latex,mysql,redis" />
 	</a>
 </p>
 
-## 📇 &nbsp;Coding Stats -->
+<p align="left">
+	<a href="https://wakatime.com/@1chooo">
+		<img 
+			height="150px" 
+			src="https://github-readme-stats-1chooo.vercel.app/api/wakatime?username=1chooo&layout=compact&langs_count=8&theme=nord"
+			alt="1chooo-wakatime-time" />
+	</a>
+	<a href="https://github.com/1chooo/1chooo.com">
+		<img 
+		height="150px" 
+		src="https://github-readme-stats-1chooo.vercel.app/api/pin/?username=1chooo&repo=1chooo.com&theme=nord"
+		alt="1chooo LeetCode Stats" />
+	</a>
+</p>
 
 
-<a href="https://gitroll.io/profile/uNdBGeKNnQXRTu54PkpvSI6P0Onp1" target="_blank"><img align="left" src="https://gitroll.io/api/badges/profiles/v1/uNdBGeKNnQXRTu54PkpvSI6P0Onp1?theme=nord" width="55%" alt="GitRoll Profile Badge"/></a>
+<!-- <a href="https://gitroll.io/profile/uNdBGeKNnQXRTu54PkpvSI6P0Onp1" target="_blank"><img align="left" src="https://gitroll.io/api/badges/profiles/v1/uNdBGeKNnQXRTu54PkpvSI6P0Onp1?theme=nord" width="55%" alt="GitRoll Profile Badge"/></a>
 
 <div>
 <p><a href="https://wakatime.com/@1chooo" target="_blank"><img align="center" src="https://github-readme-stats-1chooo.vercel.app/api/wakatime?username=1chooo&layout=compact&langs_count=8&theme=nord&hide_border=true" width="38%" alt="Hugo's wakatime" /></a></p>
 
 <p><a href="https://github.com/1chooo/1chooo.com" target="_blank"><img align="center" src="https://github-readme-stats-1chooo.vercel.app/api/pin/?username=1chooo&repo=1chooo.com&theme=nord&hide_border=true"  width="38%" alt="1chooo.com repo" /></a></p>
-</div>
+</div> -->
 
 <div align="center">
 	<h5>Self-motivated, Team player,
