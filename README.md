@@ -30,20 +30,15 @@ I'm **Chun-Ho (Hugo) Lin**, a graduate with a Bachelor's degree from [National C
 </p>
 
 <p align="left">
-	<a href="https://wakatime.com/@1chooo">
-		<img 
-			height="150px" 
-			src="https://github-readme-stats-1chooo.vercel.app/api/wakatime?username=1chooo&layout=compact&langs_count=8&theme=nord"
-			alt="1chooo-wakatime-time" />
-	</a>
-	<a href="https://leetcode.com/u/1chooo/">
-		<img 
-		height="150px" 
-		src="https://leetcard.jacoblin.cool/1chooo?theme=nord"
-		alt="1chooo LeetCode Stats" />
-	</a>
+	<img 
+		height="160px" 
+		src="https://github-readme-stats-1chooo.vercel.app/api/wakatime?username=1chooo&layout=compact&langs_count=8&title_color=ff9900&text_color=cccccc&icon_color=ff9900&bg_color=232f3e"
+		alt="1chooo-wakatime-time" />
+	<img 
+		height="160px" 
+		src="https://github-readme-stats-1chooo.vercel.app/api?username=1chooo&hide_border=false&show_icons=true&include_all_commits=true&number_format=long&title_color=ff9900&text_color=cccccc&icon_color=ff9900&bg_color=232f3e"
+		alt="1chooo-top-progamming-languages" />
 </p>
-
 
 <!-- <a href="https://gitroll.io/profile/uNdBGeKNnQXRTu54PkpvSI6P0Onp1" target="_blank"><img align="left" src="https://gitroll.io/api/badges/profiles/v1/uNdBGeKNnQXRTu54PkpvSI6P0Onp1?theme=nord" width="55%" alt="GitRoll Profile Badge"/></a>
 

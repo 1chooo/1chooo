@@ -79,6 +79,21 @@
 		alt="1chooo-top-progamming-languages" />
 </p>
 
+<p align="left">
+	<a href="https://wakatime.com/@1chooo">
+		<img 
+			height="150px" 
+			src="https://github-readme-stats-1chooo.vercel.app/api/wakatime?username=1chooo&layout=compact&langs_count=8&theme=nord"
+			alt="1chooo-wakatime-time" />
+	</a>
+	<a href="https://leetcode.com/u/1chooo/">
+		<img 
+		height="150px" 
+		src="https://leetcard.jacoblin.cool/1chooo?theme=nord"
+		alt="1chooo LeetCode Stats" />
+	</a>
+</p>
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lcho#9239) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Hugo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lcho____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/1chooo) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@1chooo) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@1chooo_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/1chooo___) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@1chooo) 
 
