@@ -1,6 +1,6 @@
 ## Hi there 🖖
 
-Build software until scaling becomes an issue.
+Dive Deep. 🤿
 
 <!-- <p align="left">
 	<a href="https://skillicons.dev">
