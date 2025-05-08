@@ -4,6 +4,16 @@
   	<img src="https://github-stats-alpha.vercel.app/api?username=1chooo&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
 </div>
 
+<div align="right">
+    <p>
+        <a href="https://1chooo.com" target="_blank"><b>👨🏻‍💻 Portfolio</b></a> |
+        <a href="https://blog.1chooo.com" target="_blank"><b>📓 Blog</b></a> |
+        <a href="https://1chooo.com/cv.pdf" target="_blank"><b>🧳 Linkedin</b></a> |
+        <a href="https://1chooo.com/cv.pdf" target="_blank"><b>📜 Resume</b></a> |
+        <a href="https://medium.com/@1chooo" target="_blank"><b>📠 Medium</b></a> 
+    </p>
+</div>
+
 <p align="left">
 	<a href="https://wakatime.com/@1chooo">
 		<img 
