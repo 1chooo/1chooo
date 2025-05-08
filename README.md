@@ -8,16 +8,16 @@ Build software until scaling becomes an issue.
 	</a>
 </p> -->
 
-<p align="left">
+<!-- <p align="left">
 	<img 
 		height="160px" 
 		src="https://github-readme-stats-1chooo.vercel.app/api/wakatime?username=1chooo&layout=compact&langs_count=8&title_color=ff9900&text_color=cccccc&icon_color=ff9900&bg_color=232f3e"
 		alt="1chooo-wakatime-time" />
-	<!-- <img 
+	<img 
 		height="160px" 
 		src="https://github-readme-stats-1chooo.vercel.app/api?username=1chooo&hide_border=false&show_icons=true&include_all_commits=true&number_format=long&title_color=ff9900&text_color=cccccc&icon_color=ff9900&bg_color=232f3e"
-		alt="1chooo-top-progamming-languages" /> -->
-</p>
+		alt="1chooo-top-progamming-languages" />
+</p> -->
 
 <div align="center">
 	<a
