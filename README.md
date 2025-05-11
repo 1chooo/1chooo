@@ -1,6 +1,6 @@
-## Hi there 🖖
+## Hi there ✌️
 
-Dive Deep. 🤿
+An incoming student at USC. ⚔️
 
 <!-- <p align="left">
 	<a href="https://skillicons.dev">
