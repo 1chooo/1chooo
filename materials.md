@@ -27,10 +27,10 @@
 		src="https://leetcard.jacoblin.cool/1chooo?theme=nord"
 		alt="1chooo LeetCode Stats" />
 	</a> -->
-	<a href="https://github.com/1chooo/1chooo.com">
+	<a href="https://github.com/1chooo/portfolio">
 		<img 
 		height="150px" 
-		src="https://github-readme-stats-1chooo.vercel.app/api/pin/?username=1chooo&repo=1chooo.com&theme=nord"
+		src="https://github-readme-stats-1chooo.vercel.app/api/pin/?username=1chooo&repo=portfolio&theme=nord"
 		alt="1chooo LeetCode Stats" />
 	</a>
 </p>
@@ -42,7 +42,7 @@
 <div>
 <p><img align="center" src="https://github-readme-stats-1chooo.vercel.app/api/wakatime?username=1chooo&layout=compact&langs_count=8&theme=nord" width="33.3%" alt="Hugo's Wakatime" /></a></p>
 
-<p><img align="center" src="https://github-readme-stats-1chooo.vercel.app/api/pin/?username=1chooo&repo=1chooo.com&theme=nord"  width="33.3%" alt="1chooo.com" /></p>
+<p><img align="center" src="https://github-readme-stats-1chooo.vercel.app/api/pin/?username=1chooo&repo=portfolio&theme=nord"  width="33.3%" alt="portfolio" /></p>
 </div>
 
 
