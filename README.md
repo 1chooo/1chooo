@@ -1,4 +1,4 @@
-## Hi there ✌️ &middot; [![USC Viterbi](https://img.shields.io/badge/usc-viterbi-990000?style=for-the-badge&labelColor=000000&color=990000)](https://viterbischool.usc.edu/)
+## Hi there ✌️ &middot; [![USC Viterbi](https://img.shields.io/badge/usc-viterbi-990000?style=for-the-badge&labelColor=000000&color=FFCC00)](https://viterbischool.usc.edu/)
 
 An incoming student at USC. ⚔️
 
