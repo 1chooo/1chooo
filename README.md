@@ -1,4 +1,4 @@
-### Hi there ✌️
+## Hi there ✌️
 
 [![USC Viterbi](https://img.shields.io/badge/Viterbi-USC-990000?style=for-the-badge&label=Viterbi&labelColor=000000&color=990000)](https://viterbischool.usc.edu/) [![Total time coded since May 10 2023](https://wakatime.com/badge/user/de962691-c66a-4501-860f-eb122ac6ea13.svg?style=for-the-badge&labelColor=000000&color=990000)](https://wakatime.com/@1chooo)
 
