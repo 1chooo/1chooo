@@ -1,1 +1,3 @@
-### Hi there ✌️ &middot; [![Total time coded since May 10 2023](https://wakatime.com/badge/user/de962691-c66a-4501-860f-eb122ac6ea13.svg?style=flat-square&color=990000)](https://wakatime.com/@1chooo)
+I am a first-year M.S. student in Computer Science at the [USC Viterbi School of Engineering](https://viterbischool.usc.edu/) ✌️.  
+
+Personal website: [1chooo.com](https://1chooo.com)
