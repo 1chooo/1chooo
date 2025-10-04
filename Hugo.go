@@ -2,63 +2,80 @@
 
 package Hugo
 
-type Me struct {
-	Name      string
-	Pronouns  string
-	Contact   string
-	Job       string
-	Company   string
-	Location  string
-	Hobbies   string
+// see https://schema.org/Organization
+type Organization struct {
+	name   string
+	sameAs string
 }
 
-func aboutMe() Me {
+type Language struct {
+	name          string
+	alternateName string
+}
 
-	return Me{
-		Name:      "Hugo",
-		Pronouns:  "He/Him",
-		Contact:   "hugo970217@gmail.com",
-		Job:       "Cloud Engineer",
-		Company:   "eCloudValley Technology Co., Ltd.",
-		Location:  "Taiwan 🇹🇼",
-		Hobbies:   "Reading 📖, Music 🎶, Movies 🍿, Photography 📸",
+// Schema.org type for Person
+//
+// This is a simplified version of the schema.org Person type.
+// It includes only the properties that are relevant for this application.
+//
+// @see https://schema.org/Person
+type Person struct {
+	givenName      string
+	additionalName string
+	familyName     string
+	pronouns       string
+	email          string
+	birthPlace     string
+	nationality    string
+	sameAs         []string
+	alumniOf       []Organization
+	knowsLanguage  []Language
+}
+
+func Hugo() Person {
+	return Person{
+		givenName:      "Chun-Ho",
+		additionalName: "Hugo",
+		familyName:     "Lin",
+		pronouns:       "he/him",
+		email:          "hugo@1chooo.com",
+		birthPlace:     "Taiwan",
+		nationality:    "Taiwanese",
+		sameAs: []string{
+			"https://www.linkedin.com/in/1chooo/",
+			"http://github.com/1chooo",
+			"https://medium.com/@1chooo",
+		},
+		alumniOf: []Organization{
+			{
+				name:   "University of Southern California",
+				sameAs: "https://usc.edu",
+			},
+			{
+				name:   "National Central University",
+				sameAs: "https://www.ncu.edu.tw",
+			},
+		},
+		knowsLanguage: []Language{
+			{
+				name:          "English",
+				alternateName: "en",
+			},
+			{
+				name:          "Mandarin",
+				alternateName: "zh",
+			},
+		},
 	}
 }
 
-type Skill struct {
-	Languages  []string
-	FrameWork  []string
-	DevOps     []string
-}
-
-func getSkill() Skill {
-
-	return Skill{
-		Languages: []string{"Go", "Python", "TypeScript", "C++", "C", "Java", "JavaScript"},
-		FrameWork: []string{"React", "FastAPI", "Flask", "Gin", "Langchain"},
-		DevOps:    []string{"AWS", "Linux", "GitHub Actions", "Docker", "Kubernetes", "Azure"},
+func (p Person) FullName() string {
+	if p.additionalName != "" {
+		return p.givenName + " " + p.additionalName + " " + p.familyName
 	}
+	return p.givenName + " " + p.familyName
 }
 
-type Working struct {
-	Company   []string
-}
-
-type FutureGoal struct {
-	Life       string
-	Work       string
-	Education  string
-}
-
-func getFutureGoal() FutureGoal {
-
-	return FutureGoal{
-		Life: "Love what my love",
-		Work: "Do what I want",
-		Education: "Study in the field of Computer Science in the United States 🇺🇸",
-	}
-}
-
-func getQuote() string {
-	return "Dreams come TRUE, when 🫵🏻 don't SLEEP...💤"
+func (p Person) Email() string {
+	return p.email
 }
