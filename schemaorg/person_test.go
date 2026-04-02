@@ -7,9 +7,9 @@ import (
 
 func TestPerson_FullName(t *testing.T) {
 	tests := []struct {
-		name   string
-		p      Person
-		want   string
+		name string
+		p    Person
+		want string
 	}{
 		{
 			name: "with additional name",
@@ -54,5 +54,30 @@ func TestPerson_JSONLD_minimal(t *testing.T) {
 	}
 	if m["@context"] != "https://schema.org" || m["@type"] != "Person" {
 		t.Fatalf("context/type: %v", m)
+	}
+}
+
+func TestPerson_JSONLD_alumniOf_mergesEducationalOrganization(t *testing.T) {
+	p := Person{
+		GivenName: "A", FamilyName: "B",
+		AlumniOf: []Organization{{Name: "Org"}},
+		AlumniOfEducational: []EducationalOrganization{{Name: "School"}},
+	}
+	data, err := json.Marshal(p)
+	if err != nil {
+		t.Fatal(err)
+	}
+	var m map[string]any
+	if err := json.Unmarshal(data, &m); err != nil {
+		t.Fatal(err)
+	}
+	raw, ok := m["alumniOf"].([]any)
+	if !ok || len(raw) != 2 {
+		t.Fatalf("alumniOf = %v", m["alumniOf"])
+	}
+	first := raw[0].(map[string]any)
+	second := raw[1].(map[string]any)
+	if first["@type"] != "Organization" || second["@type"] != "EducationalOrganization" {
+		t.Fatalf("alumniOf @types: %v, %v", first["@type"], second["@type"])
 	}
 }
