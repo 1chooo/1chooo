@@ -1,1 +1,4 @@
 .github/workflows/update.yml
+
+# Downloaded ontology for schemaorg-gen (see scripts/gen-schemaorg.sh)
+internal/schemaorg-gen/cache/

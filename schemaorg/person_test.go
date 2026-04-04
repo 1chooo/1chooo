@@ -52,7 +52,7 @@ func TestPerson_JSONLD_minimal(t *testing.T) {
 	if err := json.Unmarshal(data, &m); err != nil {
 		t.Fatal(err)
 	}
-	if m["@context"] != "https://schema.org" || m["@type"] != "Person" {
+	if m["@context"] != SchemaContextURL || m["@type"] != "Person" {
 		t.Fatalf("context/type: %v", m)
 	}
 }

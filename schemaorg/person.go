@@ -116,7 +116,7 @@ func (p Person) Email() string {
 // MarshalJSON encodes Person as schema.org JSON-LD with @context and @type.
 func (p Person) MarshalJSON() ([]byte, error) {
 	m := map[string]any{
-		"@context": "https://schema.org",
+		"@context": SchemaContextURL,
 		"@type":    "Person",
 	}
 

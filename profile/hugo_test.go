@@ -3,6 +3,8 @@ package profile
 import (
 	"encoding/json"
 	"testing"
+
+	"github.com/1chooo/1chooo/schemaorg"
 )
 
 func TestHugo_JSONLDShape(t *testing.T) {
@@ -17,7 +19,7 @@ func TestHugo_JSONLDShape(t *testing.T) {
 	if err := json.Unmarshal(data, &m); err != nil {
 		t.Fatal(err)
 	}
-	if got, want := m["@context"], "https://schema.org"; got != want {
+	if got, want := m["@context"], schemaorg.SchemaContextURL; got != want {
 		t.Errorf("@context = %v, want %v", got, want)
 	}
 	if got, want := m["@type"], "Person"; got != want {
